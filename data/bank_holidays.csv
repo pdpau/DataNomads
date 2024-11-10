@@ -1,0 +1,988 @@
+cod_provincia;desc_provincia;ine_auto_name;holiday_date;holiday_type;holiday_desc
+21;Huelva;Andalucía;2023-01-02;Autonómico;Lunes siguiente a Año Nuevo
+18;Granada;Andalucía;2023-01-02;Autonómico;Lunes siguiente a Año Nuevo
+37;Salamanca;Castilla Y León;2023-01-02;Autonómico;Lunes siguiente a Año Nuevo
+14;Córdoba;Andalucía;2023-01-02;Autonómico;Lunes siguiente a Año Nuevo
+41;Sevilla;Andalucía;2023-01-02;Autonómico;Lunes siguiente a Año Nuevo
+11;Cádiz;Andalucía;2023-01-02;Autonómico;Lunes siguiente a Año Nuevo
+44;Teruel;Aragón;2023-01-02;Autonómico;Lunes siguiente a Año Nuevo
+22;Huesca;Aragón;2023-01-02;Autonómico;Lunes siguiente a Año Nuevo
+04;Almería;Andalucía;2023-01-02;Autonómico;Lunes siguiente a Año Nuevo
+49;Zamora;Castilla Y León;2023-01-02;Autonómico;Lunes siguiente a Año Nuevo
+24;León;Castilla Y León;2023-01-02;Autonómico;Lunes siguiente a Año Nuevo
+09;Burgos;Castilla Y León;2023-01-02;Autonómico;Lunes siguiente a Año Nuevo
+33;Asturias;Asturias, Principado de;2023-01-02;Autonómico;Lunes siguiente a Año Nuevo
+30;Murcia;Murcia, Región de;2023-01-02;Autonómico;Lunes siguiente a Año Nuevo
+50;Zaragoza;Aragón;2023-01-02;Autonómico;Lunes siguiente a Año Nuevo
+29;Málaga;Andalucía;2023-01-02;Autonómico;Lunes siguiente a Año Nuevo
+23;Jaén;Andalucía;2023-01-02;Autonómico;Lunes siguiente a Año Nuevo
+34;Palencia;Castilla Y León;2023-01-02;Autonómico;Lunes siguiente a Año Nuevo
+40;Segovia;Castilla Y León;2023-01-02;Autonómico;Lunes siguiente a Año Nuevo
+05;Ávila;Castilla Y León;2023-01-02;Autonómico;Lunes siguiente a Año Nuevo
+47;Valladolid;Castilla Y León;2023-01-02;Autonómico;Lunes siguiente a Año Nuevo
+42;Soria;Castilla Y León;2023-01-02;Autonómico;Lunes siguiente a Año Nuevo
+30;Murcia;Murcia, Región de;2023-01-06;Nacional;Epifanía del Señor
+48;Bizkaia;País Vasco;2023-01-06;Nacional;Epifanía del Señor
+24;León;Castilla Y León;2023-01-06;Nacional;Epifanía del Señor
+02;Albacete;Castilla-La Mancha;2023-01-06;Nacional;Epifanía del Señor
+41;Sevilla;Andalucía;2023-01-06;Nacional;Epifanía del Señor
+12;Castellón/Castelló;Comunidad Valenciana;2023-01-06;Nacional;Epifanía del Señor
+43;Tarragona;Cataluña;2023-01-06;Nacional;Epifanía del Señor
+52;Melilla;Melilla, Ciudad Autónoma de;2023-01-06;Nacional;Epifanía del Señor
+44;Teruel;Aragón;2023-01-06;Nacional;Epifanía del Señor
+38;Santa Cruz de Tenerife;Canarias;2023-01-06;Nacional;Epifanía del Señor
+37;Salamanca;Castilla Y León;2023-01-06;Nacional;Epifanía del Señor
+14;Córdoba;Andalucía;2023-01-06;Nacional;Epifanía del Señor
+04;Almería;Andalucía;2023-01-06;Nacional;Epifanía del Señor
+03;Alicante;Comunidad Valenciana;2023-01-06;Nacional;Epifanía del Señor
+11;Cádiz;Andalucía;2023-01-06;Nacional;Epifanía del Señor
+01;Araba/Álava;País Vasco;2023-01-06;Nacional;Epifanía del Señor
+29;Málaga;Andalucía;2023-01-06;Nacional;Epifanía del Señor
+33;Asturias;Asturias, Principado de;2023-01-06;Nacional;Epifanía del Señor
+36;Pontevedra;Galicia;2023-01-06;Nacional;Epifanía del Señor
+19;Guadalajara;Castilla-La Mancha;2023-01-06;Nacional;Epifanía del Señor
+35;Palmas, Las;Canarias;2023-01-06;Nacional;Epifanía del Señor
+22;Huesca;Aragón;2023-01-06;Nacional;Epifanía del Señor
+42;Soria;Castilla Y León;2023-01-06;Nacional;Epifanía del Señor
+28;Madrid;Madrid, Comunidad de;2023-01-06;Nacional;Epifanía del Señor
+45;Toledo;Castilla-La Mancha;2023-01-06;Nacional;Epifanía del Señor
+27;Lugo;Galicia;2023-01-06;Nacional;Epifanía del Señor
+34;Palencia;Castilla Y León;2023-01-06;Nacional;Epifanía del Señor
+40;Segovia;Castilla Y León;2023-01-06;Nacional;Epifanía del Señor
+20;Gipuzkoa;País Vasco;2023-01-06;Nacional;Epifanía del Señor
+18;Granada;Andalucía;2023-01-06;Nacional;Epifanía del Señor
+26;Rioja, La;Rioja, La;2023-01-06;Nacional;Epifanía del Señor
+10;Cáceres;Extremadura;2023-01-06;Nacional;Epifanía del Señor
+50;Zaragoza;Aragón;2023-01-06;Nacional;Epifanía del Señor
+39;Cantabria;Cantabria;2023-01-06;Nacional;Epifanía del Señor
+32;Ourense;Galicia;2023-01-06;Nacional;Epifanía del Señor
+23;Jaén;Andalucía;2023-01-06;Nacional;Epifanía del Señor
+49;Zamora;Castilla Y León;2023-01-06;Nacional;Epifanía del Señor
+17;Girona;Cataluña;2023-01-06;Nacional;Epifanía del Señor
+46;Valencia/Valéncia;Comunidad Valenciana;2023-01-06;Nacional;Epifanía del Señor
+51;Ceuta;Ceuta, Ciudad Autónoma de;2023-01-06;Nacional;Epifanía del Señor
+25;Lleida;Cataluña;2023-01-06;Nacional;Epifanía del Señor
+21;Huelva;Andalucía;2023-01-06;Nacional;Epifanía del Señor
+13;Ciudad Real;Castilla-La Mancha;2023-01-06;Nacional;Epifanía del Señor
+06;Badajoz;Extremadura;2023-01-06;Nacional;Epifanía del Señor
+15;Coruña, A;Galicia;2023-01-06;Nacional;Epifanía del Señor
+08;Barcelona;Cataluña;2023-01-06;Nacional;Epifanía del Señor
+31;Navarra;Navarra, Comunidad Foral de;2023-01-06;Nacional;Epifanía del Señor
+47;Valladolid;Castilla Y León;2023-01-06;Nacional;Epifanía del Señor
+16;Cuenca;Castilla-La Mancha;2023-01-06;Nacional;Epifanía del Señor
+05;Ávila;Castilla Y León;2023-01-06;Nacional;Epifanía del Señor
+09;Burgos;Castilla Y León;2023-01-06;Nacional;Epifanía del Señor
+07;Balears, Illes;Balears, Illes;2023-01-06;Nacional;Epifanía del Señor
+06;Badajoz;Extremadura;2023-02-21;Autonómico;Martes de Carnaval
+10;Cáceres;Extremadura;2023-02-21;Autonómico;Martes de Carnaval
+21;Huelva;Andalucía;2023-02-28;Autonómico;Día de Andalucía
+41;Sevilla;Andalucía;2023-02-28;Autonómico;Día de Andalucía
+14;Córdoba;Andalucía;2023-02-28;Autonómico;Día de Andalucía
+29;Málaga;Andalucía;2023-02-28;Autonómico;Día de Andalucía
+23;Jaén;Andalucía;2023-02-28;Autonómico;Día de Andalucía
+11;Cádiz;Andalucía;2023-02-28;Autonómico;Día de Andalucía
+18;Granada;Andalucía;2023-02-28;Autonómico;Día de Andalucía
+04;Almería;Andalucía;2023-02-28;Autonómico;Día de Andalucía
+28;Madrid;Madrid, Comunidad de;2023-03-20;Autonómico;Lunes siguiente a San José
+01;Araba/Álava;País Vasco;2023-04-06;Autonómico;Jueves Santo
+52;Melilla;Melilla, Ciudad Autónoma de;2023-04-06;Autonómico;Jueves Santo
+15;Coruña, A;Galicia;2023-04-06;Autonómico;Jueves Santo
+33;Asturias;Asturias, Principado de;2023-04-06;Autonómico;Jueves Santo
+48;Bizkaia;País Vasco;2023-04-06;Autonómico;Jueves Santo
+24;León;Castilla Y León;2023-04-06;Autonómico;Jueves Santo
+02;Albacete;Castilla-La Mancha;2023-04-06;Autonómico;Jueves Santo
+04;Almería;Andalucía;2023-04-06;Autonómico;Jueves Santo
+26;Rioja, La;Rioja, La;2023-04-06;Autonómico;Jueves Santo
+49;Zamora;Castilla Y León;2023-04-06;Autonómico;Jueves Santo
+39;Cantabria;Cantabria;2023-04-06;Autonómico;Jueves Santo
+35;Palmas, Las;Canarias;2023-04-06;Autonómico;Jueves Santo
+05;Ávila;Castilla Y León;2023-04-06;Autonómico;Jueves Santo
+11;Cádiz;Andalucía;2023-04-06;Autonómico;Jueves Santo
+27;Lugo;Galicia;2023-04-06;Autonómico;Jueves Santo
+47;Valladolid;Castilla Y León;2023-04-06;Autonómico;Jueves Santo
+37;Salamanca;Castilla Y León;2023-04-06;Autonómico;Jueves Santo
+40;Segovia;Castilla Y León;2023-04-06;Autonómico;Jueves Santo
+22;Huesca;Aragón;2023-04-06;Autonómico;Jueves Santo
+19;Guadalajara;Castilla-La Mancha;2023-04-06;Autonómico;Jueves Santo
+06;Badajoz;Extremadura;2023-04-06;Autonómico;Jueves Santo
+51;Ceuta;Ceuta, Ciudad Autónoma de;2023-04-06;Autonómico;Jueves Santo
+44;Teruel;Aragón;2023-04-06;Autonómico;Jueves Santo
+18;Granada;Andalucía;2023-04-06;Autonómico;Jueves Santo
+42;Soria;Castilla Y León;2023-04-06;Autonómico;Jueves Santo
+14;Córdoba;Andalucía;2023-04-06;Autonómico;Jueves Santo
+23;Jaén;Andalucía;2023-04-06;Autonómico;Jueves Santo
+45;Toledo;Castilla-La Mancha;2023-04-06;Autonómico;Jueves Santo
+34;Palencia;Castilla Y León;2023-04-06;Autonómico;Jueves Santo
+13;Ciudad Real;Castilla-La Mancha;2023-04-06;Autonómico;Jueves Santo
+09;Burgos;Castilla Y León;2023-04-06;Autonómico;Jueves Santo
+20;Gipuzkoa;País Vasco;2023-04-06;Autonómico;Jueves Santo
+50;Zaragoza;Aragón;2023-04-06;Autonómico;Jueves Santo
+41;Sevilla;Andalucía;2023-04-06;Autonómico;Jueves Santo
+28;Madrid;Madrid, Comunidad de;2023-04-06;Autonómico;Jueves Santo
+10;Cáceres;Extremadura;2023-04-06;Autonómico;Jueves Santo
+32;Ourense;Galicia;2023-04-06;Autonómico;Jueves Santo
+31;Navarra;Navarra, Comunidad Foral de;2023-04-06;Autonómico;Jueves Santo
+30;Murcia;Murcia, Región de;2023-04-06;Autonómico;Jueves Santo
+36;Pontevedra;Galicia;2023-04-06;Autonómico;Jueves Santo
+21;Huelva;Andalucía;2023-04-06;Autonómico;Jueves Santo
+29;Málaga;Andalucía;2023-04-06;Autonómico;Jueves Santo
+16;Cuenca;Castilla-La Mancha;2023-04-06;Autonómico;Jueves Santo
+11;Cádiz;Andalucía;2023-04-07;Nacional;Viernes Santo
+44;Teruel;Aragón;2023-04-07;Nacional;Viernes Santo
+09;Burgos;Castilla Y León;2023-04-07;Nacional;Viernes Santo
+24;León;Castilla Y León;2023-04-07;Nacional;Viernes Santo
+34;Palencia;Castilla Y León;2023-04-07;Nacional;Viernes Santo
+38;Santa Cruz de Tenerife;Canarias;2023-04-07;Nacional;Viernes Santo
+33;Asturias;Asturias, Principado de;2023-04-07;Nacional;Viernes Santo
+32;Ourense;Galicia;2023-04-07;Nacional;Viernes Santo
+30;Murcia;Murcia, Región de;2023-04-07;Nacional;Viernes Santo
+42;Soria;Castilla Y León;2023-04-07;Nacional;Viernes Santo
+21;Huelva;Andalucía;2023-04-07;Nacional;Viernes Santo
+37;Salamanca;Castilla Y León;2023-04-07;Nacional;Viernes Santo
+22;Huesca;Aragón;2023-04-07;Nacional;Viernes Santo
+14;Córdoba;Andalucía;2023-04-07;Nacional;Viernes Santo
+12;Castellón/Castelló;Comunidad Valenciana;2023-04-07;Nacional;Viernes Santo
+04;Almería;Andalucía;2023-04-07;Nacional;Viernes Santo
+01;Araba/Álava;País Vasco;2023-04-07;Nacional;Viernes Santo
+08;Barcelona;Cataluña;2023-04-07;Nacional;Viernes Santo
+03;Alicante;Comunidad Valenciana;2023-04-07;Nacional;Viernes Santo
+43;Tarragona;Cataluña;2023-04-07;Nacional;Viernes Santo
+36;Pontevedra;Galicia;2023-04-07;Nacional;Viernes Santo
+29;Málaga;Andalucía;2023-04-07;Nacional;Viernes Santo
+45;Toledo;Castilla-La Mancha;2023-04-07;Nacional;Viernes Santo
+15;Coruña, A;Galicia;2023-04-07;Nacional;Viernes Santo
+20;Gipuzkoa;País Vasco;2023-04-07;Nacional;Viernes Santo
+07;Balears, Illes;Balears, Illes;2023-04-07;Nacional;Viernes Santo
+06;Badajoz;Extremadura;2023-04-07;Nacional;Viernes Santo
+48;Bizkaia;País Vasco;2023-04-07;Nacional;Viernes Santo
+02;Albacete;Castilla-La Mancha;2023-04-07;Nacional;Viernes Santo
+27;Lugo;Galicia;2023-04-07;Nacional;Viernes Santo
+05;Ávila;Castilla Y León;2023-04-07;Nacional;Viernes Santo
+51;Ceuta;Ceuta, Ciudad Autónoma de;2023-04-07;Nacional;Viernes Santo
+23;Jaén;Andalucía;2023-04-07;Nacional;Viernes Santo
+17;Girona;Cataluña;2023-04-07;Nacional;Viernes Santo
+47;Valladolid;Castilla Y León;2023-04-07;Nacional;Viernes Santo
+46;Valencia/Valéncia;Comunidad Valenciana;2023-04-07;Nacional;Viernes Santo
+16;Cuenca;Castilla-La Mancha;2023-04-07;Nacional;Viernes Santo
+10;Cáceres;Extremadura;2023-04-07;Nacional;Viernes Santo
+40;Segovia;Castilla Y León;2023-04-07;Nacional;Viernes Santo
+13;Ciudad Real;Castilla-La Mancha;2023-04-07;Nacional;Viernes Santo
+39;Cantabria;Cantabria;2023-04-07;Nacional;Viernes Santo
+28;Madrid;Madrid, Comunidad de;2023-04-07;Nacional;Viernes Santo
+50;Zaragoza;Aragón;2023-04-07;Nacional;Viernes Santo
+18;Granada;Andalucía;2023-04-07;Nacional;Viernes Santo
+26;Rioja, La;Rioja, La;2023-04-07;Nacional;Viernes Santo
+35;Palmas, Las;Canarias;2023-04-07;Nacional;Viernes Santo
+25;Lleida;Cataluña;2023-04-07;Nacional;Viernes Santo
+41;Sevilla;Andalucía;2023-04-07;Nacional;Viernes Santo
+31;Navarra;Navarra, Comunidad Foral de;2023-04-07;Nacional;Viernes Santo
+19;Guadalajara;Castilla-La Mancha;2023-04-07;Nacional;Viernes Santo
+49;Zamora;Castilla Y León;2023-04-07;Nacional;Viernes Santo
+52;Melilla;Melilla, Ciudad Autónoma de;2023-04-07;Nacional;Viernes Santo
+48;Bizkaia;País Vasco;2023-04-10;Autonómico;Lunes de Pascua
+08;Barcelona;Cataluña;2023-04-10;Autonómico;Lunes de Pascua
+43;Tarragona;Cataluña;2023-04-10;Autonómico;Lunes de Pascua
+25;Lleida;Cataluña;2023-04-10;Autonómico;Lunes de Pascua
+01;Araba/Álava;País Vasco;2023-04-10;Autonómico;Lunes de Pascua
+31;Navarra;Navarra, Comunidad Foral de;2023-04-10;Autonómico;Lunes de Pascua
+26;Rioja, La;Rioja, La;2023-04-10;Autonómico;Lunes de Pascua
+17;Girona;Cataluña;2023-04-10;Autonómico;Lunes de Pascua
+20;Gipuzkoa;País Vasco;2023-04-10;Autonómico;Lunes de Pascua
+52;Melilla;Melilla, Ciudad Autónoma de;2023-04-21;Autonómico;Fiesta del Eid Fitr
+22;Huesca;Aragón;2023-04-24;Autonómico;San Jorge Día de Aragón
+50;Zaragoza;Aragón;2023-04-24;Autonómico;San Jorge Día de Aragón
+44;Teruel;Aragón;2023-04-24;Autonómico;San Jorge Día de Aragón
+02;Albacete;Castilla-La Mancha;2023-05-01;Nacional;Fiesta del Trabajo
+48;Bizkaia;País Vasco;2023-05-01;Nacional;Fiesta del Trabajo
+32;Ourense;Galicia;2023-05-01;Nacional;Fiesta del Trabajo
+49;Zamora;Castilla Y León;2023-05-01;Nacional;Fiesta del Trabajo
+44;Teruel;Aragón;2023-05-01;Nacional;Fiesta del Trabajo
+10;Cáceres;Extremadura;2023-05-01;Nacional;Fiesta del Trabajo
+28;Madrid;Madrid, Comunidad de;2023-05-01;Nacional;Fiesta del Trabajo
+29;Málaga;Andalucía;2023-05-01;Nacional;Fiesta del Trabajo
+50;Zaragoza;Aragón;2023-05-01;Nacional;Fiesta del Trabajo
+06;Badajoz;Extremadura;2023-05-01;Nacional;Fiesta del Trabajo
+42;Soria;Castilla Y León;2023-05-01;Nacional;Fiesta del Trabajo
+12;Castellón/Castelló;Comunidad Valenciana;2023-05-01;Nacional;Fiesta del Trabajo
+05;Ávila;Castilla Y León;2023-05-01;Nacional;Fiesta del Trabajo
+04;Almería;Andalucía;2023-05-01;Nacional;Fiesta del Trabajo
+35;Palmas, Las;Canarias;2023-05-01;Nacional;Fiesta del Trabajo
+30;Murcia;Murcia, Región de;2023-05-01;Nacional;Fiesta del Trabajo
+15;Coruña, A;Galicia;2023-05-01;Nacional;Fiesta del Trabajo
+16;Cuenca;Castilla-La Mancha;2023-05-01;Nacional;Fiesta del Trabajo
+21;Huelva;Andalucía;2023-05-01;Nacional;Fiesta del Trabajo
+33;Asturias;Asturias, Principado de;2023-05-01;Nacional;Fiesta del Trabajo
+20;Gipuzkoa;País Vasco;2023-05-01;Nacional;Fiesta del Trabajo
+40;Segovia;Castilla Y León;2023-05-01;Nacional;Fiesta del Trabajo
+46;Valencia/Valéncia;Comunidad Valenciana;2023-05-01;Nacional;Fiesta del Trabajo
+19;Guadalajara;Castilla-La Mancha;2023-05-01;Nacional;Fiesta del Trabajo
+13;Ciudad Real;Castilla-La Mancha;2023-05-01;Nacional;Fiesta del Trabajo
+03;Alicante;Comunidad Valenciana;2023-05-01;Nacional;Fiesta del Trabajo
+26;Rioja, La;Rioja, La;2023-05-01;Nacional;Fiesta del Trabajo
+34;Palencia;Castilla Y León;2023-05-01;Nacional;Fiesta del Trabajo
+23;Jaén;Andalucía;2023-05-01;Nacional;Fiesta del Trabajo
+01;Araba/Álava;País Vasco;2023-05-01;Nacional;Fiesta del Trabajo
+41;Sevilla;Andalucía;2023-05-01;Nacional;Fiesta del Trabajo
+37;Salamanca;Castilla Y León;2023-05-01;Nacional;Fiesta del Trabajo
+31;Navarra;Navarra, Comunidad Foral de;2023-05-01;Nacional;Fiesta del Trabajo
+39;Cantabria;Cantabria;2023-05-01;Nacional;Fiesta del Trabajo
+36;Pontevedra;Galicia;2023-05-01;Nacional;Fiesta del Trabajo
+47;Valladolid;Castilla Y León;2023-05-01;Nacional;Fiesta del Trabajo
+14;Córdoba;Andalucía;2023-05-01;Nacional;Fiesta del Trabajo
+52;Melilla;Melilla, Ciudad Autónoma de;2023-05-01;Nacional;Fiesta del Trabajo
+07;Balears, Illes;Balears, Illes;2023-05-01;Nacional;Fiesta del Trabajo
+18;Granada;Andalucía;2023-05-01;Nacional;Fiesta del Trabajo
+45;Toledo;Castilla-La Mancha;2023-05-01;Nacional;Fiesta del Trabajo
+08;Barcelona;Cataluña;2023-05-01;Nacional;Fiesta del Trabajo
+43;Tarragona;Cataluña;2023-05-01;Nacional;Fiesta del Trabajo
+24;León;Castilla Y León;2023-05-01;Nacional;Fiesta del Trabajo
+27;Lugo;Galicia;2023-05-01;Nacional;Fiesta del Trabajo
+11;Cádiz;Andalucía;2023-05-01;Nacional;Fiesta del Trabajo
+38;Santa Cruz de Tenerife;Canarias;2023-05-01;Nacional;Fiesta del Trabajo
+09;Burgos;Castilla Y León;2023-05-01;Nacional;Fiesta del Trabajo
+22;Huesca;Aragón;2023-05-01;Nacional;Fiesta del Trabajo
+17;Girona;Cataluña;2023-05-01;Nacional;Fiesta del Trabajo
+25;Lleida;Cataluña;2023-05-01;Nacional;Fiesta del Trabajo
+51;Ceuta;Ceuta, Ciudad Autónoma de;2023-05-01;Nacional;Fiesta del Trabajo
+28;Madrid;Madrid, Comunidad de;2023-05-02;Autonómico;Fiesta de la Comunidad de Madrid
+32;Ourense;Galicia;2023-05-17;Autonómico;Día de las Letras Gallegas
+36;Pontevedra;Galicia;2023-05-17;Autonómico;Día de las Letras Gallegas
+15;Coruña, A;Galicia;2023-05-17;Autonómico;Día de las Letras Gallegas
+27;Lugo;Galicia;2023-05-17;Autonómico;Día de las Letras Gallegas
+35;Palmas, Las;Canarias;2023-05-30;Autonómico;Día de Canarias
+45;Toledo;Castilla-La Mancha;2023-05-31;Autonómico;Día de Castilla-La Mancha
+16;Cuenca;Castilla-La Mancha;2023-05-31;Autonómico;Día de Castilla-La Mancha
+13;Ciudad Real;Castilla-La Mancha;2023-05-31;Autonómico;Día de Castilla-La Mancha
+19;Guadalajara;Castilla-La Mancha;2023-05-31;Autonómico;Día de Castilla-La Mancha
+02;Albacete;Castilla-La Mancha;2023-05-31;Autonómico;Día de Castilla-La Mancha
+19;Guadalajara;Castilla-La Mancha;2023-06-08;Autonómico;Corpus Christi
+13;Ciudad Real;Castilla-La Mancha;2023-06-08;Autonómico;Corpus Chrisi
+16;Cuenca;Castilla-La Mancha;2023-06-08;Autonómico;Corpus Christi
+45;Toledo;Castilla-La Mancha;2023-06-08;Autonómico;Corpus Christi
+02;Albacete;Castilla-La Mancha;2023-06-08;Autonómico;Corpus Christi
+30;Murcia;Murcia, Región de;2023-06-09;Autonómico;Día de la Región de Murcia
+26;Rioja, La;Rioja, La;2023-06-09;Autonómico;Día de La Rioja
+43;Tarragona;Cataluña;2023-06-24;Autonómico;San Juan
+08;Barcelona;Cataluña;2023-06-24;Autonómico;San Juan
+17;Girona;Cataluña;2023-06-24;Autonómico;San Juan
+25;Lleida;Cataluña;2023-06-24;Autonómico;San Juan
+51;Ceuta;Ceuta, Ciudad Autónoma de;2023-06-29;Autonómico;Fiesta del Sacrificio - Eidul-Adha
+48;Bizkaia;País Vasco;2023-07-25;Autonómico;Santiago Apóstol
+31;Navarra;Navarra, Comunidad Foral de;2023-07-25;Autonómico;Santiago Apóstol
+49;Zamora;Castilla Y León;2023-07-25;Autonómico;Santiago Apóstol
+47;Valladolid;Castilla Y León;2023-07-25;Autonómico;Santiago Apóstol
+15;Coruña, A;Galicia;2023-07-25;Autonómico;Santiago Apóstol Día Nacional de Galicia
+27;Lugo;Galicia;2023-07-25;Autonómico;Santiago Apóstol Día Nacional de Galicia
+42;Soria;Castilla Y León;2023-07-25;Autonómico;Santiago Apóstol
+24;León;Castilla Y León;2023-07-25;Autonómico;Santiago Apóstol
+20;Gipuzkoa;País Vasco;2023-07-25;Autonómico;Santiago Apóstol
+34;Palencia;Castilla Y León;2023-07-25;Autonómico;Santiago Apóstol
+09;Burgos;Castilla Y León;2023-07-25;Autonómico;Santiago Apóstol
+01;Araba/Álava;País Vasco;2023-07-25;Autonómico;Santiago Apóstol
+40;Segovia;Castilla Y León;2023-07-25;Autonómico;Santiago Apóstol
+05;Ávila;Castilla Y León;2023-07-25;Autonómico;Santiago Apóstol
+37;Salamanca;Castilla Y León;2023-07-25;Autonómico;Santiago Apóstol
+36;Pontevedra;Galicia;2023-07-25;Autonómico;Santiago Apóstol Día Nacional de Galicia
+32;Ourense;Galicia;2023-07-25;Autonómico;Santiago Apóstol Día Nacional de Galicia
+39;Cantabria;Cantabria;2023-07-28;Autonómico;Día de las Instituciones de Cantabria
+52;Melilla;Melilla, Ciudad Autónoma de;2023-07-29;Autonómico;Fiesta del Sacrificio-Aid Al Adha
+45;Toledo;Castilla-La Mancha;2023-08-15;Nacional;Asunción de la Virgen
+02;Albacete;Castilla-La Mancha;2023-08-15;Nacional;Asunción de la Virgen
+27;Lugo;Galicia;2023-08-15;Nacional;Asunción de la Virgen
+32;Ourense;Galicia;2023-08-15;Nacional;Asunción de la Virgen
+30;Murcia;Murcia, Región de;2023-08-15;Nacional;Asunción de la Virgen
+51;Ceuta;Ceuta, Ciudad Autónoma de;2023-08-15;Nacional;Asunción de la Virgen
+16;Cuenca;Castilla-La Mancha;2023-08-15;Nacional;Asunción de la Virgen
+14;Córdoba;Andalucía;2023-08-15;Nacional;Asunción de la Virgen
+36;Pontevedra;Galicia;2023-08-15;Nacional;Asunción de la Virgen
+28;Madrid;Madrid, Comunidad de;2023-08-15;Nacional;Asunción de la Virgen
+34;Palencia;Castilla Y León;2023-08-15;Nacional;Asunción de la Virgen
+37;Salamanca;Castilla Y León;2023-08-15;Nacional;Asunción de la Virgen
+13;Ciudad Real;Castilla-La Mancha;2023-08-15;Nacional;Asunción de la Virgen
+35;Palmas, Las;Canarias;2023-08-15;Nacional;Asunción de la Virgen
+09;Burgos;Castilla Y León;2023-08-15;Nacional;Asunción de la Virgen
+49;Zamora;Castilla Y León;2023-08-15;Nacional;Asunción de la Virgen
+22;Huesca;Aragón;2023-08-15;Nacional;Asunción de la Virgen
+46;Valencia/Valéncia;Comunidad Valenciana;2023-08-15;Nacional;Asunción de la Virgen
+23;Jaén;Andalucía;2023-08-15;Nacional;Asunción de la Virgen
+07;Balears, Illes;Balears, Illes;2023-08-15;Nacional;Asunción de la Virgen
+03;Alicante;Comunidad Valenciana;2023-08-15;Nacional;Asunción de la Virgen
+29;Málaga;Andalucía;2023-08-15;Nacional;Asunción de la Virgen
+39;Cantabria;Cantabria;2023-08-15;Nacional;Asunción de la Virgen
+52;Melilla;Melilla, Ciudad Autónoma de;2023-08-15;Nacional;Asunción de la Virgen
+20;Gipuzkoa;País Vasco;2023-08-15;Nacional;Asunción de la Virgen
+38;Santa Cruz de Tenerife;Canarias;2023-08-15;Nacional;Asunción de la Virgen
+43;Tarragona;Cataluña;2023-08-15;Nacional;Asunción de la Virgen
+25;Lleida;Cataluña;2023-08-15;Nacional;Asunción de la Virgen
+17;Girona;Cataluña;2023-08-15;Nacional;Asunción de la Virgen
+26;Rioja, La;Rioja, La;2023-08-15;Nacional;Asunción de la Virgen
+01;Araba/Álava;País Vasco;2023-08-15;Nacional;Asunción de la Virgen
+06;Badajoz;Extremadura;2023-08-15;Nacional;Asunción de la Virgen
+05;Ávila;Castilla Y León;2023-08-15;Nacional;Asunción de la Virgen
+11;Cádiz;Andalucía;2023-08-15;Nacional;Asunción de la Virgen
+10;Cáceres;Extremadura;2023-08-15;Nacional;Asunción de la Virgen
+50;Zaragoza;Aragón;2023-08-15;Nacional;Asunción de la Virgen
+12;Castellón/Castelló;Comunidad Valenciana;2023-08-15;Nacional;Asunción de la Virgen
+40;Segovia;Castilla Y León;2023-08-15;Nacional;Asunción de la Virgen
+15;Coruña, A;Galicia;2023-08-15;Nacional;Asunción de la Virgen
+04;Almería;Andalucía;2023-08-15;Nacional;Asunción de la Virgen
+21;Huelva;Andalucía;2023-08-15;Nacional;Asunción de la Virgen
+44;Teruel;Aragón;2023-08-15;Nacional;Asunción de la Virgen
+47;Valladolid;Castilla Y León;2023-08-15;Nacional;Asunción de la Virgen
+42;Soria;Castilla Y León;2023-08-15;Nacional;Asunción de la Virgen
+31;Navarra;Navarra, Comunidad Foral de;2023-08-15;Nacional;Asunción de la Virgen
+24;León;Castilla Y León;2023-08-15;Nacional;Asunción de la Virgen
+08;Barcelona;Cataluña;2023-08-15;Nacional;Asunción de la Virgen
+18;Granada;Andalucía;2023-08-15;Nacional;Asunción de la Virgen
+33;Asturias;Asturias, Principado de;2023-08-15;Nacional;Asunción de la Virgen
+48;Bizkaia;País Vasco;2023-08-15;Nacional;Asunción de la Virgen
+19;Guadalajara;Castilla-La Mancha;2023-08-15;Nacional;Asunción de la Virgen
+41;Sevilla;Andalucía;2023-08-15;Nacional;Asunción de la Virgen
+51;Ceuta;Ceuta, Ciudad Autónoma de;2023-09-02;Autonómico;Día de Ceuta
+33;Asturias;Asturias, Principado de;2023-09-08;Autonómico;Día de Asturias
+10;Cáceres;Extremadura;2023-09-08;Autonómico;Día de Extremadura
+06;Badajoz;Extremadura;2023-09-08;Autonómico;Día de Extremadura
+08;Barcelona;Cataluña;2023-09-11;Autonómico;Fiesta Nacional de Cataluña
+25;Lleida;Cataluña;2023-09-11;Autonómico;Fiesta Nacional de Cataluña
+43;Tarragona;Cataluña;2023-09-11;Autonómico;Fiesta Nacional de Cataluña
+17;Girona;Cataluña;2023-09-11;Autonómico;Fiesta Nacional de Cataluña
+39;Cantabria;Cantabria;2023-09-15;Autonómico;La Bien Aparecida
+39;Cantabria;Cantabria;2023-10-12;Nacional;Fiesta Nacional de España
+25;Lleida;Cataluña;2023-10-12;Nacional;Fiesta Nacional de España
+06;Badajoz;Extremadura;2023-10-12;Nacional;Fiesta Nacional de España
+01;Araba/Álava;País Vasco;2023-10-12;Nacional;Fiesta Nacional de España
+46;Valencia/Valéncia;Comunidad Valenciana;2023-10-12;Nacional;Fiesta Nacional de España
+44;Teruel;Aragón;2023-10-12;Nacional;Fiesta Nacional de España
+21;Huelva;Andalucía;2023-10-12;Nacional;Fiesta Nacional de España
+04;Almería;Andalucía;2023-10-12;Nacional;Fiesta Nacional de España
+10;Cáceres;Extremadura;2023-10-12;Nacional;Fiesta Nacional de España
+02;Albacete;Castilla-La Mancha;2023-10-12;Nacional;Fiesta Nacional de España
+17;Girona;Cataluña;2023-10-12;Nacional;Fiesta Nacional de España
+12;Castellón/Castelló;Comunidad Valenciana;2023-10-12;Nacional;Fiesta Nacional de España
+14;Córdoba;Andalucía;2023-10-12;Nacional;Fiesta Nacional de España
+09;Burgos;Castilla Y León;2023-10-12;Nacional;Fiesta Nacional de España
+32;Ourense;Galicia;2023-10-12;Nacional;Fiesta Nacional de España
+24;León;Castilla Y León;2023-10-12;Nacional;Fiesta Nacional de España
+31;Navarra;Navarra, Comunidad Foral de;2023-10-12;Nacional;Fiesta Nacional de España
+05;Ávila;Castilla Y León;2023-10-12;Nacional;Fiesta Nacional de España
+07;Balears, Illes;Balears, Illes;2023-10-12;Nacional;Fiesta Nacional de España
+15;Coruña, A;Galicia;2023-10-12;Nacional;Fiesta Nacional de España
+11;Cádiz;Andalucía;2023-10-12;Nacional;Fiesta Nacional de España
+52;Melilla;Melilla, Ciudad Autónoma de;2023-10-12;Nacional;Fiesta Nacional de España
+49;Zamora;Castilla Y León;2023-10-12;Nacional;Fiesta Nacional de España
+33;Asturias;Asturias, Principado de;2023-10-12;Nacional;Fiesta Nacional de España
+19;Guadalajara;Castilla-La Mancha;2023-10-12;Nacional;Fiesta Nacional de España
+20;Gipuzkoa;País Vasco;2023-10-12;Nacional;Fiesta Nacional de España
+08;Barcelona;Cataluña;2023-10-12;Nacional;Fiesta Nacional de España
+45;Toledo;Castilla-La Mancha;2023-10-12;Nacional;Fiesta Nacional de España
+35;Palmas, Las;Canarias;2023-10-12;Nacional;Fiesta Nacional de España
+43;Tarragona;Cataluña;2023-10-12;Nacional;Fiesta Nacional de España
+50;Zaragoza;Aragón;2023-10-12;Nacional;Fiesta Nacional de España
+29;Málaga;Andalucía;2023-10-12;Nacional;Fiesta Nacional de España
+36;Pontevedra;Galicia;2023-10-12;Nacional;Fiesta Nacional de España
+41;Sevilla;Andalucía;2023-10-12;Nacional;Fiesta Nacional de España
+18;Granada;Andalucía;2023-10-12;Nacional;Fiesta Nacional de España
+23;Jaén;Andalucía;2023-10-12;Nacional;Fiesta Nacional de España
+26;Rioja, La;Rioja, La;2023-10-12;Nacional;Fiesta Nacional de España
+13;Ciudad Real;Castilla-La Mancha;2023-10-12;Nacional;Fiesta Nacional de España
+42;Soria;Castilla Y León;2023-10-12;Nacional;Fiesta Nacional de España
+30;Murcia;Murcia, Región de;2023-10-12;Nacional;Fiesta Nacional de España
+34;Palencia;Castilla Y León;2023-10-12;Nacional;Fiesta Nacional de España
+16;Cuenca;Castilla-La Mancha;2023-10-12;Nacional;Fiesta Nacional de España
+48;Bizkaia;País Vasco;2023-10-12;Nacional;Fiesta Nacional de España
+51;Ceuta;Ceuta, Ciudad Autónoma de;2023-10-12;Nacional;Fiesta Nacional de España
+37;Salamanca;Castilla Y León;2023-10-12;Nacional;Fiesta Nacional de España
+38;Santa Cruz de Tenerife;Canarias;2023-10-12;Nacional;Fiesta Nacional de España
+47;Valladolid;Castilla Y León;2023-10-12;Nacional;Fiesta Nacional de España
+22;Huesca;Aragón;2023-10-12;Nacional;Fiesta Nacional de España
+03;Alicante;Comunidad Valenciana;2023-10-12;Nacional;Fiesta Nacional de España
+40;Segovia;Castilla Y León;2023-10-12;Nacional;Fiesta Nacional de España
+28;Madrid;Madrid, Comunidad de;2023-10-12;Nacional;Fiesta Nacional de España
+27;Lugo;Galicia;2023-10-12;Nacional;Fiesta Nacional de España
+15;Coruña, A;Galicia;2023-11-01;Nacional;Todos los Santos
+50;Zaragoza;Aragón;2023-11-01;Nacional;Todos los Santos
+07;Balears, Illes;Balears, Illes;2023-11-01;Nacional;Todos los Santos
+26;Rioja, La;Rioja, La;2023-11-01;Nacional;Todos los Santos
+10;Cáceres;Extremadura;2023-11-01;Nacional;Todos los Santos
+43;Tarragona;Cataluña;2023-11-01;Nacional;Todos los Santos
+16;Cuenca;Castilla-La Mancha;2023-11-01;Nacional;Todos los Santos
+13;Ciudad Real;Castilla-La Mancha;2023-11-01;Nacional;Todos los Santos
+52;Melilla;Melilla, Ciudad Autónoma de;2023-11-01;Nacional;Todos los Santos
+29;Málaga;Andalucía;2023-11-01;Nacional;Todos los Santos
+39;Cantabria;Cantabria;2023-11-01;Nacional;Todos los Santos
+08;Barcelona;Cataluña;2023-11-01;Nacional;Todos los Santos
+33;Asturias;Asturias, Principado de;2023-11-01;Nacional;Todos los Santos
+23;Jaén;Andalucía;2023-11-01;Nacional;Todos los Santos
+25;Lleida;Cataluña;2023-11-01;Nacional;Todos los Santos
+04;Almería;Andalucía;2023-11-01;Nacional;Todos los Santos
+21;Huelva;Andalucía;2023-11-01;Nacional;Todos los Santos
+18;Granada;Andalucía;2023-11-01;Nacional;Todos los Santos
+02;Albacete;Castilla-La Mancha;2023-11-01;Nacional;Todos los Santos
+40;Segovia;Castilla Y León;2023-11-01;Nacional;Todos los Santos
+30;Murcia;Murcia, Región de;2023-11-01;Nacional;Todos los Santos
+46;Valencia/Valéncia;Comunidad Valenciana;2023-11-01;Nacional;Todos los Santos
+45;Toledo;Castilla-La Mancha;2023-11-01;Nacional;Todos los Santos
+35;Palmas, Las;Canarias;2023-11-01;Nacional;Todos los Santos
+37;Salamanca;Castilla Y León;2023-11-01;Nacional;Todos los Santos
+38;Santa Cruz de Tenerife;Canarias;2023-11-01;Nacional;Todos los Santos
+51;Ceuta;Ceuta, Ciudad Autónoma de;2023-11-01;Nacional;Todos los Santos
+41;Sevilla;Andalucía;2023-11-01;Nacional;Todos los Santos
+20;Gipuzkoa;País Vasco;2023-11-01;Nacional;Todos los Santos
+01;Araba/Álava;País Vasco;2023-11-01;Nacional;Todos los Santos
+34;Palencia;Castilla Y León;2023-11-01;Nacional;Todos los Santos
+12;Castellón/Castelló;Comunidad Valenciana;2023-11-01;Nacional;Todos los Santos
+03;Alicante;Comunidad Valenciana;2023-11-01;Nacional;Todos los Santos
+11;Cádiz;Andalucía;2023-11-01;Nacional;Todos los Santos
+24;León;Castilla Y León;2023-11-01;Nacional;Todos los Santos
+22;Huesca;Aragón;2023-11-01;Nacional;Todos los Santos
+32;Ourense;Galicia;2023-11-01;Nacional;Todos los Santos
+09;Burgos;Castilla Y León;2023-11-01;Nacional;Todos los Santos
+28;Madrid;Madrid, Comunidad de;2023-11-01;Nacional;Todos los Santos
+19;Guadalajara;Castilla-La Mancha;2023-11-01;Nacional;Todos los Santos
+31;Navarra;Navarra, Comunidad Foral de;2023-11-01;Nacional;Todos los Santos
+49;Zamora;Castilla Y León;2023-11-01;Nacional;Todos los Santos
+06;Badajoz;Extremadura;2023-11-01;Nacional;Todos los Santos
+42;Soria;Castilla Y León;2023-11-01;Nacional;Todos los Santos
+27;Lugo;Galicia;2023-11-01;Nacional;Todos los Santos
+47;Valladolid;Castilla Y León;2023-11-01;Nacional;Todos los Santos
+05;Ávila;Castilla Y León;2023-11-01;Nacional;Todos los Santos
+14;Córdoba;Andalucía;2023-11-01;Nacional;Todos los Santos
+48;Bizkaia;País Vasco;2023-11-01;Nacional;Todos los Santos
+36;Pontevedra;Galicia;2023-11-01;Nacional;Todos los Santos
+44;Teruel;Aragón;2023-11-01;Nacional;Todos los Santos
+17;Girona;Cataluña;2023-11-01;Nacional;Todos los Santos
+51;Ceuta;Ceuta, Ciudad Autónoma de;2023-12-06;Nacional;Día de la Constitución Española
+25;Lleida;Cataluña;2023-12-06;Nacional;Día de la Constitución Española
+12;Castellón/Castelló;Comunidad Valenciana;2023-12-06;Nacional;Día de la Constitución Española
+40;Segovia;Castilla Y León;2023-12-06;Nacional;Día de la Constitución Española
+35;Palmas, Las;Canarias;2023-12-06;Nacional;Día de la Constitución Española
+47;Valladolid;Castilla Y León;2023-12-06;Nacional;Día de la Constitución Española
+27;Lugo;Galicia;2023-12-06;Nacional;Día de la Constitución Española
+49;Zamora;Castilla Y León;2023-12-06;Nacional;Día de la Constitución Española
+15;Coruña, A;Galicia;2023-12-06;Nacional;Día de la Constitución Española
+02;Albacete;Castilla-La Mancha;2023-12-06;Nacional;Día de la Constitución Española
+32;Ourense;Galicia;2023-12-06;Nacional;Día de la Constitución Española
+38;Santa Cruz de Tenerife;Canarias;2023-12-06;Nacional;Día de la Constitución Española
+31;Navarra;Navarra, Comunidad Foral de;2023-12-06;Nacional;Día de la Constitución Española
+14;Córdoba;Andalucía;2023-12-06;Nacional;Día de la Constitución Española
+29;Málaga;Andalucía;2023-12-06;Nacional;Día de la Constitución Española
+33;Asturias;Asturias, Principado de;2023-12-06;Nacional;Día de la Constitución Española
+20;Gipuzkoa;País Vasco;2023-12-06;Nacional;Día de la Constitución Española
+21;Huelva;Andalucía;2023-12-06;Nacional;Día de la Constitución Española
+50;Zaragoza;Aragón;2023-12-06;Nacional;Día de la Constitución Española
+10;Cáceres;Extremadura;2023-12-06;Nacional;Día de la Constitución Española
+09;Burgos;Castilla Y León;2023-12-06;Nacional;Día de la Constitución Española
+01;Araba/Álava;País Vasco;2023-12-06;Nacional;Día de la Constitución Española
+39;Cantabria;Cantabria;2023-12-06;Nacional;Día de la Constitución Española
+48;Bizkaia;País Vasco;2023-12-06;Nacional;Día de la Constitución Española
+06;Badajoz;Extremadura;2023-12-06;Nacional;Día de la Constitución Española
+03;Alicante;Comunidad Valenciana;2023-12-06;Nacional;Día de la Constitución Española
+26;Rioja, La;Rioja, La;2023-12-06;Nacional;Día de la Constitución Española
+05;Ávila;Castilla Y León;2023-12-06;Nacional;Día de la Constitución Española
+23;Jaén;Andalucía;2023-12-06;Nacional;Día de la Constitución Española
+04;Almería;Andalucía;2023-12-06;Nacional;Día de la Constitución Española
+43;Tarragona;Cataluña;2023-12-06;Nacional;Día de la Constitución Española
+11;Cádiz;Andalucía;2023-12-06;Nacional;Día de la Constitución Española
+41;Sevilla;Andalucía;2023-12-06;Nacional;Día de la Constitución Española
+30;Murcia;Murcia, Región de;2023-12-06;Nacional;Día de la Constitución Española
+46;Valencia/Valéncia;Comunidad Valenciana;2023-12-06;Nacional;Día de la Constitución Española
+44;Teruel;Aragón;2023-12-06;Nacional;Día de la Constitución Española
+45;Toledo;Castilla-La Mancha;2023-12-06;Nacional;Día de la Constitución Española
+07;Balears, Illes;Balears, Illes;2023-12-06;Nacional;Día de la Constitución Española
+36;Pontevedra;Galicia;2023-12-06;Nacional;Día de la Constitución Española
+24;León;Castilla Y León;2023-12-06;Nacional;Día de la Constitución Española
+13;Ciudad Real;Castilla-La Mancha;2023-12-06;Nacional;Día de la Constitución Española
+08;Barcelona;Cataluña;2023-12-06;Nacional;Día de la Constitución Española
+16;Cuenca;Castilla-La Mancha;2023-12-06;Nacional;Día de la Constitución Española
+22;Huesca;Aragón;2023-12-06;Nacional;Día de la Constitución Española
+42;Soria;Castilla Y León;2023-12-06;Nacional;Día de la Constitución Española
+17;Girona;Cataluña;2023-12-06;Nacional;Día de la Constitución Española
+52;Melilla;Melilla, Ciudad Autónoma de;2023-12-06;Nacional;Día de la Constitución Española
+28;Madrid;Madrid, Comunidad de;2023-12-06;Nacional;Día de la Constitución Española
+37;Salamanca;Castilla Y León;2023-12-06;Nacional;Día de la Constitución Española
+19;Guadalajara;Castilla-La Mancha;2023-12-06;Nacional;Día de la Constitución Española
+18;Granada;Andalucía;2023-12-06;Nacional;Día de la Constitución Española
+34;Palencia;Castilla Y León;2023-12-06;Nacional;Día de la Constitución Española
+07;Balears, Illes;Balears, Illes;2023-12-08;Nacional;Inmaculada Concepción
+50;Zaragoza;Aragón;2023-12-08;Nacional;Inmaculada Concepción
+09;Burgos;Castilla Y León;2023-12-08;Nacional;Inmaculada Concepción
+31;Navarra;Navarra, Comunidad Foral de;2023-12-08;Nacional;Inmaculada Concepción
+12;Castellón/Castelló;Comunidad Valenciana;2023-12-08;Nacional;Inmaculada Concepción
+25;Lleida;Cataluña;2023-12-08;Nacional;Inmaculada Concepción
+30;Murcia;Murcia, Región de;2023-12-08;Nacional;Inmaculada Concepción
+41;Sevilla;Andalucía;2023-12-08;Nacional;Inmaculada Concepción
+37;Salamanca;Castilla Y León;2023-12-08;Nacional;Inmaculada Concepción
+11;Cádiz;Andalucía;2023-12-08;Nacional;Inmaculada Concepción
+27;Lugo;Galicia;2023-12-08;Nacional;Inmaculada Concepción
+26;Rioja, La;Rioja, La;2023-12-08;Nacional;Inmaculada Concepción
+46;Valencia/Valéncia;Comunidad Valenciana;2023-12-08;Nacional;Inmaculada Concepción
+24;León;Castilla Y León;2023-12-08;Nacional;Inmaculada Concepción
+36;Pontevedra;Galicia;2023-12-08;Nacional;Inmaculada Concepción
+20;Gipuzkoa;País Vasco;2023-12-08;Nacional;Inmaculada Concepción
+39;Cantabria;Cantabria;2023-12-08;Nacional;Inmaculada Concepción
+01;Araba/Álava;País Vasco;2023-12-08;Nacional;Inmaculada Concepción
+34;Palencia;Castilla Y León;2023-12-08;Nacional;Inmaculada Concepción
+44;Teruel;Aragón;2023-12-08;Nacional;Inmaculada Concepción
+43;Tarragona;Cataluña;2023-12-08;Nacional;Inmaculada Concepción
+40;Segovia;Castilla Y León;2023-12-08;Nacional;Inmaculada Concepción
+21;Huelva;Andalucía;2023-12-08;Nacional;Inmaculada Concepción
+03;Alicante;Comunidad Valenciana;2023-12-08;Nacional;Inmaculada Concepción
+23;Jaén;Andalucía;2023-12-08;Nacional;Inmaculada Concepción
+04;Almería;Andalucía;2023-12-08;Nacional;Inmaculada Concepción
+45;Toledo;Castilla-La Mancha;2023-12-08;Nacional;Inmaculada Concepción
+14;Córdoba;Andalucía;2023-12-08;Nacional;Inmaculada Concepción
+19;Guadalajara;Castilla-La Mancha;2023-12-08;Nacional;Inmaculada Concepción
+38;Santa Cruz de Tenerife;Canarias;2023-12-08;Nacional;Inmaculada Concepción
+28;Madrid;Madrid, Comunidad de;2023-12-08;Nacional;Inmaculada Concepción
+32;Ourense;Galicia;2023-12-08;Nacional;Inmaculada Concepción
+17;Girona;Cataluña;2023-12-08;Nacional;Inmaculada Concepción
+29;Málaga;Andalucía;2023-12-08;Nacional;Inmaculada Concepción
+02;Albacete;Castilla-La Mancha;2023-12-08;Nacional;Inmaculada Concepción
+48;Bizkaia;País Vasco;2023-12-08;Nacional;Inmaculada Concepción
+05;Ávila;Castilla Y León;2023-12-08;Nacional;Inmaculada Concepción
+49;Zamora;Castilla Y León;2023-12-08;Nacional;Inmaculada Concepción
+51;Ceuta;Ceuta, Ciudad Autónoma de;2023-12-08;Nacional;Inmaculada Concepción
+08;Barcelona;Cataluña;2023-12-08;Nacional;Inmaculada Concepción
+52;Melilla;Melilla, Ciudad Autónoma de;2023-12-08;Nacional;Inmaculada Concepción
+06;Badajoz;Extremadura;2023-12-08;Nacional;Inmaculada Concepción
+42;Soria;Castilla Y León;2023-12-08;Nacional;Inmaculada Concepción
+33;Asturias;Asturias, Principado de;2023-12-08;Nacional;Inmaculada Concepción
+16;Cuenca;Castilla-La Mancha;2023-12-08;Nacional;Inmaculada Concepción
+35;Palmas, Las;Canarias;2023-12-08;Nacional;Inmaculada Concepción
+13;Ciudad Real;Castilla-La Mancha;2023-12-08;Nacional;Inmaculada Concepción
+18;Granada;Andalucía;2023-12-08;Nacional;Inmaculada Concepción
+22;Huesca;Aragón;2023-12-08;Nacional;Inmaculada Concepción
+15;Coruña, A;Galicia;2023-12-08;Nacional;Inmaculada Concepción
+10;Cáceres;Extremadura;2023-12-08;Nacional;Inmaculada Concepción
+47;Valladolid;Castilla Y León;2023-12-08;Nacional;Inmaculada Concepción
+35;Palmas, Las;Canarias;2023-12-25;Nacional;Natividad del Señor
+31;Navarra;Navarra, Comunidad Foral de;2023-12-25;Nacional;Natividad del Señor
+25;Lleida;Cataluña;2023-12-25;Nacional;Natividad del Señor
+20;Gipuzkoa;País Vasco;2023-12-25;Nacional;Natividad del Señor
+36;Pontevedra;Galicia;2023-12-25;Nacional;Natividad del Señor
+34;Palencia;Castilla Y León;2023-12-25;Nacional;Natividad del Señor
+14;Córdoba;Andalucía;2023-12-25;Nacional;Natividad del Señor
+22;Huesca;Aragón;2023-12-25;Nacional;Natividad del Señor
+44;Teruel;Aragón;2023-12-25;Nacional;Natividad del Señor
+10;Cáceres;Extremadura;2023-12-25;Nacional;Natividad del Señor
+29;Málaga;Andalucía;2023-12-25;Nacional;Natividad del Señor
+41;Sevilla;Andalucía;2023-12-25;Nacional;Natividad del Señor
+15;Coruña, A;Galicia;2023-12-25;Nacional;Natividad del Señor
+23;Jaén;Andalucía;2023-12-25;Nacional;Natividad del Señor
+46;Valencia/Valéncia;Comunidad Valenciana;2023-12-25;Nacional;Natividad del Señor
+07;Balears, Illes;Balears, Illes;2023-12-25;Nacional;Natividad del Señor
+50;Zaragoza;Aragón;2023-12-25;Nacional;Natividad del Señor
+52;Melilla;Melilla, Ciudad Autónoma de;2023-12-25;Nacional;Natividad del Señor
+19;Guadalajara;Castilla-La Mancha;2023-12-25;Nacional;Natividad del Señor
+30;Murcia;Murcia, Región de;2023-12-25;Nacional;Natividad del Señor
+28;Madrid;Madrid, Comunidad de;2023-12-25;Nacional;Natividad del Señor
+08;Barcelona;Cataluña;2023-12-25;Nacional;Natividad del Señor
+21;Huelva;Andalucía;2023-12-25;Nacional;Natividad del Señor
+27;Lugo;Galicia;2023-12-25;Nacional;Natividad del Señor
+33;Asturias;Asturias, Principado de;2023-12-25;Nacional;Natividad del Señor
+17;Girona;Cataluña;2023-12-25;Nacional;Natividad del Señor
+48;Bizkaia;País Vasco;2023-12-25;Nacional;Natividad del Señor
+24;León;Castilla Y León;2023-12-25;Nacional;Natividad del Señor
+26;Rioja, La;Rioja, La;2023-12-25;Nacional;Natividad del Señor
+09;Burgos;Castilla Y León;2023-12-25;Nacional;Natividad del Señor
+04;Almería;Andalucía;2023-12-25;Nacional;Natividad del Señor
+49;Zamora;Castilla Y León;2023-12-25;Nacional;Natividad del Señor
+40;Segovia;Castilla Y León;2023-12-25;Nacional;Natividad del Señor
+51;Ceuta;Ceuta, Ciudad Autónoma de;2023-12-25;Nacional;Natividad del Señor
+38;Santa Cruz de Tenerife;Canarias;2023-12-25;Nacional;Natividad del Señor
+11;Cádiz;Andalucía;2023-12-25;Nacional;Natividad del Señor
+18;Granada;Andalucía;2023-12-25;Nacional;Natividad del Señor
+32;Ourense;Galicia;2023-12-25;Nacional;Natividad del Señor
+13;Ciudad Real;Castilla-La Mancha;2023-12-25;Nacional;Natividad del Señor
+43;Tarragona;Cataluña;2023-12-25;Nacional;Natividad del Señor
+01;Araba/Álava;País Vasco;2023-12-25;Nacional;Natividad del Señor
+06;Badajoz;Extremadura;2023-12-25;Nacional;Natividad del Señor
+03;Alicante;Comunidad Valenciana;2023-12-25;Nacional;Natividad del Señor
+02;Albacete;Castilla-La Mancha;2023-12-25;Nacional;Natividad del Señor
+05;Ávila;Castilla Y León;2023-12-25;Nacional;Natividad del Señor
+45;Toledo;Castilla-La Mancha;2023-12-25;Nacional;Natividad del Señor
+16;Cuenca;Castilla-La Mancha;2023-12-25;Nacional;Natividad del Señor
+12;Castellón/Castelló;Comunidad Valenciana;2023-12-25;Nacional;Natividad del Señor
+42;Soria;Castilla Y León;2023-12-25;Nacional;Natividad del Señor
+37;Salamanca;Castilla Y León;2023-12-25;Nacional;Natividad del Señor
+39;Cantabria;Cantabria;2023-12-25;Nacional;Natividad del Señor
+47;Valladolid;Castilla Y León;2023-12-25;Nacional;Natividad del Señor
+25;Lleida;Cataluña;2023-12-26;Autonómico;San Esteban
+17;Girona;Cataluña;2023-12-26;Autonómico;San Esteban
+43;Tarragona;Cataluña;2023-12-26;Autonómico;San Esteban
+08;Barcelona;Cataluña;2023-12-26;Autonómico;San Esteban
+02;Albacete;Castilla-La Mancha;2024-01-01;Nacional;Año Nuevo
+17;Girona;Cataluña;2024-01-01;Nacional;Año Nuevo
+18;Granada;Andalucía;2024-01-01;Nacional;Año Nuevo
+41;Sevilla;Andalucía;2024-01-01;Nacional;Año Nuevo
+22;Huesca;Aragón;2024-01-01;Nacional;Año Nuevo
+34;Palencia;Castilla Y León;2024-01-01;Nacional;Año Nuevo
+07;Balears, Illes;Balears, Illes;2024-01-01;Nacional;Año Nuevo
+38;Santa Cruz de Tenerife;Canarias;2024-01-01;Nacional;Año Nuevo
+09;Burgos;Castilla Y León;2024-01-01;Nacional;Año Nuevo
+08;Barcelona;Cataluña;2024-01-01;Nacional;Año Nuevo
+45;Toledo;Castilla-La Mancha;2024-01-01;Nacional;Año Nuevo
+05;Ávila;Castilla Y León;2024-01-01;Nacional;Año Nuevo
+40;Segovia;Castilla Y León;2024-01-01;Nacional;Año Nuevo
+15;Coruña, A;Galicia;2024-01-01;Nacional;Año Nuevo
+26;Rioja, La;Rioja, La;2024-01-01;Nacional;Año Nuevo
+46;Valencia/Valéncia;Comunidad Valenciana;2024-01-01;Nacional;Año Nuevo
+03;Alicante;Comunidad Valenciana;2024-01-01;Nacional;Año Nuevo
+13;Ciudad Real;Castilla-La Mancha;2024-01-01;Nacional;Año Nuevo
+36;Pontevedra;Galicia;2024-01-01;Nacional;Año Nuevo
+31;Navarra;Navarra, Comunidad Foral de;2024-01-01;Nacional;Año Nuevo
+43;Tarragona;Cataluña;2024-01-01;Nacional;Año Nuevo
+04;Almería;Andalucía;2024-01-01;Nacional;Año Nuevo
+47;Valladolid;Castilla Y León;2024-01-01;Nacional;Año Nuevo
+35;Palmas, Las;Canarias;2024-01-01;Nacional;Año Nuevo
+10;Cáceres;Extremadura;2024-01-01;Nacional;Año Nuevo
+33;Asturias;Asturias, Principado de;2024-01-01;Nacional;Año Nuevo
+19;Guadalajara;Castilla-La Mancha;2024-01-01;Nacional;Año Nuevo
+50;Zaragoza;Aragón;2024-01-01;Nacional;Año Nuevo
+01;Araba/Álava;País Vasco;2024-01-01;Nacional;Año Nuevo
+32;Ourense;Galicia;2024-01-01;Nacional;Año Nuevo
+29;Málaga;Andalucía;2024-01-01;Nacional;Año Nuevo
+28;Madrid;Madrid, Comunidad de;2024-01-01;Nacional;Año Nuevo
+51;Ceuta;Ceuta, Ciudad Autónoma de;2024-01-01;Nacional;Año Nuevo
+39;Cantabria;Cantabria;2024-01-01;Nacional;Año Nuevo
+52;Melilla;Melilla, Ciudad Autónoma de;2024-01-01;Nacional;Año Nuevo
+24;León;Castilla Y León;2024-01-01;Nacional;Año Nuevo
+30;Murcia;Murcia, Región de;2024-01-01;Nacional;Año Nuevo
+48;Bizkaia;País Vasco;2024-01-01;Nacional;Año Nuevo
+25;Lleida;Cataluña;2024-01-01;Nacional;Año Nuevo
+42;Soria;Castilla Y León;2024-01-01;Nacional;Año Nuevo
+06;Badajoz;Extremadura;2024-01-01;Nacional;Año Nuevo
+44;Teruel;Aragón;2024-01-01;Nacional;Año Nuevo
+14;Córdoba;Andalucía;2024-01-01;Nacional;Año Nuevo
+11;Cádiz;Andalucía;2024-01-01;Nacional;Año Nuevo
+12;Castellón/Castelló;Comunidad Valenciana;2024-01-01;Nacional;Año Nuevo
+37;Salamanca;Castilla Y León;2024-01-01;Nacional;Año Nuevo
+21;Huelva;Andalucía;2024-01-01;Nacional;Año Nuevo
+23;Jaén;Andalucía;2024-01-01;Nacional;Año Nuevo
+16;Cuenca;Castilla-La Mancha;2024-01-01;Nacional;Año Nuevo
+27;Lugo;Galicia;2024-01-01;Nacional;Año Nuevo
+49;Zamora;Castilla Y León;2024-01-01;Nacional;Año Nuevo
+20;Gipuzkoa;País Vasco;2024-01-01;Nacional;Año Nuevo
+17;Girona;Cataluña;2024-01-06;Nacional;Epifania del Señor
+43;Tarragona;Cataluña;2024-01-06;Nacional;Epifania del Señor
+30;Murcia;Murcia, Región de;2024-01-06;Nacional;Epifania del Señor
+22;Huesca;Aragón;2024-01-06;Nacional;Epifania del Señor
+15;Coruña, A;Galicia;2024-01-06;Nacional;Epifania del Señor
+16;Cuenca;Castilla-La Mancha;2024-01-06;Nacional;Epifania del Señor
+01;Araba/Álava;País Vasco;2024-01-06;Nacional;Epifania del Señor
+06;Badajoz;Extremadura;2024-01-06;Nacional;Epifania del Señor
+13;Ciudad Real;Castilla-La Mancha;2024-01-06;Nacional;Epifania del Señor
+25;Lleida;Cataluña;2024-01-06;Nacional;Epifania del Señor
+46;Valencia/Valéncia;Comunidad Valenciana;2024-01-06;Nacional;Epifania del Señor
+34;Palencia;Castilla Y León;2024-01-06;Nacional;Epifania del Señor
+33;Asturias;Asturias, Principado de;2024-01-06;Nacional;Epifania del Señor
+14;Córdoba;Andalucía;2024-01-06;Nacional;Epifania del Señor
+31;Navarra;Navarra, Comunidad Foral de;2024-01-06;Nacional;Epifania del Señor
+37;Salamanca;Castilla Y León;2024-01-06;Nacional;Epifania del Señor
+26;Rioja, La;Rioja, La;2024-01-06;Nacional;Epifania del Señor
+40;Segovia;Castilla Y León;2024-01-06;Nacional;Epifania del Señor
+36;Pontevedra;Galicia;2024-01-06;Nacional;Epifania del Señor
+27;Lugo;Galicia;2024-01-06;Nacional;Epifania del Señor
+48;Bizkaia;País Vasco;2024-01-06;Nacional;Epifania del Señor
+05;Ávila;Castilla Y León;2024-01-06;Nacional;Epifania del Señor
+32;Ourense;Galicia;2024-01-06;Nacional;Epifania del Señor
+23;Jaén;Andalucía;2024-01-06;Nacional;Epifania del Señor
+50;Zaragoza;Aragón;2024-01-06;Nacional;Epifania del Señor
+02;Albacete;Castilla-La Mancha;2024-01-06;Nacional;Epifania del Señor
+45;Toledo;Castilla-La Mancha;2024-01-06;Nacional;Epifania del Señor
+38;Santa Cruz de Tenerife;Canarias;2024-01-06;Nacional;Epifania del Señor
+21;Huelva;Andalucía;2024-01-06;Nacional;Epifania del Señor
+03;Alicante;Comunidad Valenciana;2024-01-06;Nacional;Epifania del Señor
+07;Balears, Illes;Balears, Illes;2024-01-06;Nacional;Epifania del Señor
+52;Melilla;Melilla, Ciudad Autónoma de;2024-01-06;Nacional;Epifania del Señor
+29;Málaga;Andalucía;2024-01-06;Nacional;Epifania del Señor
+49;Zamora;Castilla Y León;2024-01-06;Nacional;Epifania del Señor
+28;Madrid;Madrid, Comunidad de;2024-01-06;Nacional;Epifania del Señor
+08;Barcelona;Cataluña;2024-01-06;Nacional;Epifania del Señor
+18;Granada;Andalucía;2024-01-06;Nacional;Epifania del Señor
+42;Soria;Castilla Y León;2024-01-06;Nacional;Epifania del Señor
+47;Valladolid;Castilla Y León;2024-01-06;Nacional;Epifania del Señor
+10;Cáceres;Extremadura;2024-01-06;Nacional;Epifania del Señor
+51;Ceuta;Ceuta, Ciudad Autónoma de;2024-01-06;Nacional;Epifania del Señor
+12;Castellón/Castelló;Comunidad Valenciana;2024-01-06;Nacional;Epifania del Señor
+19;Guadalajara;Castilla-La Mancha;2024-01-06;Nacional;Epifania del Señor
+39;Cantabria;Cantabria;2024-01-06;Nacional;Epifania del Señor
+41;Sevilla;Andalucía;2024-01-06;Nacional;Epifania del Señor
+09;Burgos;Castilla Y León;2024-01-06;Nacional;Epifania del Señor
+04;Almería;Andalucía;2024-01-06;Nacional;Epifania del Señor
+24;León;Castilla Y León;2024-01-06;Nacional;Epifania del Señor
+20;Gipuzkoa;País Vasco;2024-01-06;Nacional;Epifania del Señor
+35;Palmas, Las;Canarias;2024-01-06;Nacional;Epifania del Señor
+11;Cádiz;Andalucía;2024-01-06;Nacional;Epifania del Señor
+44;Teruel;Aragón;2024-01-06;Nacional;Epifania del Señor
+06;Badajoz;Extremadura;2024-02-13;Autonómico;Martes de Carnaval
+10;Cáceres;Extremadura;2024-02-13;Autonómico;Martes de Carnaval
+04;Almería;Andalucía;2024-02-28;Autonómico;Día de Andalucía
+14;Córdoba;Andalucía;2024-02-28;Autonómico;Día de Andalucía
+21;Huelva;Andalucía;2024-02-28;Autonómico;Día de Andalucía
+23;Jaén;Andalucía;2024-02-28;Autonómico;Día de Andalucía
+18;Granada;Andalucía;2024-02-28;Autonómico;Día de Andalucía
+29;Málaga;Andalucía;2024-02-28;Autonómico;Día de Andalucía
+11;Cádiz;Andalucía;2024-02-28;Autonómico;Día de Andalucía
+41;Sevilla;Andalucía;2024-02-28;Autonómico;Día de Andalucía
+30;Murcia;Murcia, Región de;2024-03-19;Autonómico;Día de San José
+13;Ciudad Real;Castilla-La Mancha;2024-03-28;Autonómico;Jueves Santo
+22;Huesca;Aragón;2024-03-28;Autonómico;Jueves Santo
+21;Huelva;Andalucía;2024-03-28;Autonómico;Jueves Santo
+30;Murcia;Murcia, Región de;2024-03-28;Autonómico;Jueves Santo
+51;Ceuta;Ceuta, Ciudad Autónoma de;2024-03-28;Autonómico;Jueves Santo
+01;Araba/Álava;País Vasco;2024-03-28;Autonómico;Jueves Santo
+15;Coruña, A;Galicia;2024-03-28;Autonómico;Jueves Santo
+47;Valladolid;Castilla Y León;2024-03-28;Autonómico;Jueves Santo
+33;Asturias;Asturias, Principado de;2024-03-28;Autonómico;Jueves Santo
+10;Cáceres;Extremadura;2024-03-28;Autonómico;Jueves Santo
+14;Córdoba;Andalucía;2024-03-28;Autonómico;Jueves Santo
+23;Jaén;Andalucía;2024-03-28;Autonómico;Jueves Santo
+04;Almería;Andalucía;2024-03-28;Autonómico;Jueves Santo
+48;Bizkaia;País Vasco;2024-03-28;Autonómico;Jueves Santo
+42;Soria;Castilla Y León;2024-03-28;Autonómico;Jueves Santo
+45;Toledo;Castilla-La Mancha;2024-03-28;Autonómico;Jueves Santo
+35;Palmas, Las;Canarias;2024-03-28;Autonómico;Jueves Santo
+28;Madrid;Madrid, Comunidad de;2024-03-28;Autonómico;Jueves Santo
+29;Málaga;Andalucía;2024-03-28;Autonómico;Jueves Santo
+09;Burgos;Castilla Y León;2024-03-28;Autonómico;Jueves Santo
+50;Zaragoza;Aragón;2024-03-28;Autonómico;Jueves Santo
+41;Sevilla;Andalucía;2024-03-28;Autonómico;Jueves Santo
+34;Palencia;Castilla Y León;2024-03-28;Autonómico;Jueves Santo
+02;Albacete;Castilla-La Mancha;2024-03-28;Autonómico;Jueves Santo
+40;Segovia;Castilla Y León;2024-03-28;Autonómico;Jueves Santo
+11;Cádiz;Andalucía;2024-03-28;Autonómico;Jueves Santo
+16;Cuenca;Castilla-La Mancha;2024-03-28;Autonómico;Jueves Santo
+19;Guadalajara;Castilla-La Mancha;2024-03-28;Autonómico;Jueves Santo
+44;Teruel;Aragón;2024-03-28;Autonómico;Jueves Santo
+18;Granada;Andalucía;2024-03-28;Autonómico;Jueves Santo
+06;Badajoz;Extremadura;2024-03-28;Autonómico;Jueves Santo
+36;Pontevedra;Galicia;2024-03-28;Autonómico;Jueves Santo
+37;Salamanca;Castilla Y León;2024-03-28;Autonómico;Jueves Santo
+27;Lugo;Galicia;2024-03-28;Autonómico;Jueves Santo
+24;León;Castilla Y León;2024-03-28;Autonómico;Jueves Santo
+05;Ávila;Castilla Y León;2024-03-28;Autonómico;Jueves Santo
+26;Rioja, La;Rioja, La;2024-03-28;Autonómico;Jueves Santo
+31;Navarra;Navarra, Comunidad Foral de;2024-03-28;Autonómico;Jueves Santo
+52;Melilla;Melilla, Ciudad Autónoma de;2024-03-28;Autonómico;Jueves Santo
+32;Ourense;Galicia;2024-03-28;Autonómico;Jueves Santo
+39;Cantabria;Cantabria;2024-03-28;Autonómico;Jueves Santo
+20;Gipuzkoa;País Vasco;2024-03-28;Autonómico;Jueves Santo
+49;Zamora;Castilla Y León;2024-03-28;Autonómico;Jueves Santo
+45;Toledo;Castilla-La Mancha;2024-03-29;Nacional;Viernes Santo
+39;Cantabria;Cantabria;2024-03-29;Nacional;Viernes Santo
+17;Girona;Cataluña;2024-03-29;Nacional;Viernes Santo
+25;Lleida;Cataluña;2024-03-29;Nacional;Viernes Santo
+09;Burgos;Castilla Y León;2024-03-29;Nacional;Viernes Santo
+29;Málaga;Andalucía;2024-03-29;Nacional;Viernes Santo
+43;Tarragona;Cataluña;2024-03-29;Nacional;Viernes Santo
+49;Zamora;Castilla Y León;2024-03-29;Nacional;Viernes Santo
+16;Cuenca;Castilla-La Mancha;2024-03-29;Nacional;Viernes Santo
+50;Zaragoza;Aragón;2024-03-29;Nacional;Viernes Santo
+08;Barcelona;Cataluña;2024-03-29;Nacional;Viernes Santo
+11;Cádiz;Andalucía;2024-03-29;Nacional;Viernes Santo
+23;Jaén;Andalucía;2024-03-29;Nacional;Viernes Santo
+13;Ciudad Real;Castilla-La Mancha;2024-03-29;Nacional;Viernes Santo
+06;Badajoz;Extremadura;2024-03-29;Nacional;Viernes Santo
+24;León;Castilla Y León;2024-03-29;Nacional;Viernes Santo
+47;Valladolid;Castilla Y León;2024-03-29;Nacional;Viernes Santo
+34;Palencia;Castilla Y León;2024-03-29;Nacional;Viernes Santo
+05;Ávila;Castilla Y León;2024-03-29;Nacional;Viernes Santo
+12;Castellón/Castelló;Comunidad Valenciana;2024-03-29;Nacional;Viernes Santo
+30;Murcia;Murcia, Región de;2024-03-29;Nacional;Viernes Santo
+14;Córdoba;Andalucía;2024-03-29;Nacional;Viernes Santo
+01;Araba/Álava;País Vasco;2024-03-29;Nacional;Viernes Santo
+41;Sevilla;Andalucía;2024-03-29;Nacional;Viernes Santo
+21;Huelva;Andalucía;2024-03-29;Nacional;Viernes Santo
+46;Valencia/Valéncia;Comunidad Valenciana;2024-03-29;Nacional;Viernes Santo
+03;Alicante;Comunidad Valenciana;2024-03-29;Nacional;Viernes Santo
+42;Soria;Castilla Y León;2024-03-29;Nacional;Viernes Santo
+36;Pontevedra;Galicia;2024-03-29;Nacional;Viernes Santo
+40;Segovia;Castilla Y León;2024-03-29;Nacional;Viernes Santo
+52;Melilla;Melilla, Ciudad Autónoma de;2024-03-29;Nacional;Viernes Santo
+22;Huesca;Aragón;2024-03-29;Nacional;Viernes Santo
+02;Albacete;Castilla-La Mancha;2024-03-29;Nacional;Viernes Santo
+15;Coruña, A;Galicia;2024-03-29;Nacional;Viernes Santo
+28;Madrid;Madrid, Comunidad de;2024-03-29;Nacional;Viernes Santo
+38;Santa Cruz de Tenerife;Canarias;2024-03-29;Nacional;Viernes Santo
+48;Bizkaia;País Vasco;2024-03-29;Nacional;Viernes Santo
+35;Palmas, Las;Canarias;2024-03-29;Nacional;Viernes Santo
+33;Asturias;Asturias, Principado de;2024-03-29;Nacional;Viernes Santo
+10;Cáceres;Extremadura;2024-03-29;Nacional;Viernes Santo
+20;Gipuzkoa;País Vasco;2024-03-29;Nacional;Viernes Santo
+31;Navarra;Navarra, Comunidad Foral de;2024-03-29;Nacional;Viernes Santo
+18;Granada;Andalucía;2024-03-29;Nacional;Viernes Santo
+32;Ourense;Galicia;2024-03-29;Nacional;Viernes Santo
+51;Ceuta;Ceuta, Ciudad Autónoma de;2024-03-29;Nacional;Viernes Santo
+07;Balears, Illes;Balears, Illes;2024-03-29;Nacional;Viernes Santo
+04;Almería;Andalucía;2024-03-29;Nacional;Viernes Santo
+19;Guadalajara;Castilla-La Mancha;2024-03-29;Nacional;Viernes Santo
+37;Salamanca;Castilla Y León;2024-03-29;Nacional;Viernes Santo
+27;Lugo;Galicia;2024-03-29;Nacional;Viernes Santo
+26;Rioja, La;Rioja, La;2024-03-29;Nacional;Viernes Santo
+44;Teruel;Aragón;2024-03-29;Nacional;Viernes Santo
+08;Barcelona;Cataluña;2024-04-01;Autonómico;Lunes de Pascua
+01;Araba/Álava;País Vasco;2024-04-01;Autonómico;Lunes de Pascua
+26;Rioja, La;Rioja, La;2024-04-01;Autonómico;Lunes de Pascua
+25;Lleida;Cataluña;2024-04-01;Autonómico;Lunes de Pascua
+48;Bizkaia;País Vasco;2024-04-01;Autonómico;Lunes de Pascua
+20;Gipuzkoa;País Vasco;2024-04-01;Autonómico;Lunes de Pascua
+17;Girona;Cataluña;2024-04-01;Autonómico;Lunes de Pascua
+39;Cantabria;Cantabria;2024-04-01;Autonómico;Lunes de Pascua
+31;Navarra;Navarra, Comunidad Foral de;2024-04-01;Autonómico;Lunes de Pascua
+43;Tarragona;Cataluña;2024-04-01;Autonómico;Lunes de Pascua
+40;Segovia;Castilla Y León;2024-04-23;Autonómico;Fiesta de Castilla y León
+50;Zaragoza;Aragón;2024-04-23;Autonómico;San Jorge Día de Aragón
+47;Valladolid;Castilla Y León;2024-04-23;Autonómico;Fiesta de Castilla y León
+05;Ávila;Castilla Y León;2024-04-23;Autonómico;Fiesta de Castilla y León
+09;Burgos;Castilla Y León;2024-04-23;Autonómico;Fiesta de Castilla y León
+49;Zamora;Castilla Y León;2024-04-23;Autonómico;Fiesta de Castilla y León
+22;Huesca;Aragón;2024-04-23;Autonómico;San Jorge Día de Aragón
+24;León;Castilla Y León;2024-04-23;Autonómico;Fiesta de Castilla y León
+37;Salamanca;Castilla Y León;2024-04-23;Autonómico;Fiesta de Castilla y León
+42;Soria;Castilla Y León;2024-04-23;Autonómico;Fiesta de Castilla y León
+34;Palencia;Castilla Y León;2024-04-23;Autonómico;Fiesta de Castilla y León
+44;Teruel;Aragón;2024-04-23;Autonómico;San Jorge Día de Aragón
+38;Santa Cruz de Tenerife;Canarias;2024-05-01;Nacional;Fiesta del trabajo
+42;Soria;Castilla Y León;2024-05-01;Nacional;Fiesta del trabajo
+49;Zamora;Castilla Y León;2024-05-01;Nacional;Fiesta del trabajo
+28;Madrid;Madrid, Comunidad de;2024-05-01;Nacional;Fiesta del trabajo
+35;Palmas, Las;Canarias;2024-05-01;Nacional;Fiesta del trabajo
+23;Jaén;Andalucía;2024-05-01;Nacional;Fiesta del trabajo
+52;Melilla;Melilla, Ciudad Autónoma de;2024-05-01;Nacional;Fiesta del trabajo
+16;Cuenca;Castilla-La Mancha;2024-05-01;Nacional;Fiesta del trabajo
+20;Gipuzkoa;País Vasco;2024-05-01;Nacional;Fiesta del trabajo
+45;Toledo;Castilla-La Mancha;2024-05-01;Nacional;Fiesta del trabajo
+08;Barcelona;Cataluña;2024-05-01;Nacional;Fiesta del trabajo
+26;Rioja, La;Rioja, La;2024-05-01;Nacional;Fiesta del trabajo
+33;Asturias;Asturias, Principado de;2024-05-01;Nacional;Fiesta del trabajo
+18;Granada;Andalucía;2024-05-01;Nacional;Fiesta del trabajo
+32;Ourense;Galicia;2024-05-01;Nacional;Fiesta del trabajo
+47;Valladolid;Castilla Y León;2024-05-01;Nacional;Fiesta del trabajo
+05;Ávila;Castilla Y León;2024-05-01;Nacional;Fiesta del trabajo
+03;Alicante;Comunidad Valenciana;2024-05-01;Nacional;Fiesta del trabajo
+40;Segovia;Castilla Y León;2024-05-01;Nacional;Fiesta del trabajo
+34;Palencia;Castilla Y León;2024-05-01;Nacional;Fiesta del trabajo
+14;Córdoba;Andalucía;2024-05-01;Nacional;Fiesta del trabajo
+41;Sevilla;Andalucía;2024-05-01;Nacional;Fiesta del trabajo
+12;Castellón/Castelló;Comunidad Valenciana;2024-05-01;Nacional;Fiesta del trabajo
+31;Navarra;Navarra, Comunidad Foral de;2024-05-01;Nacional;Fiesta del trabajo
+48;Bizkaia;País Vasco;2024-05-01;Nacional;Fiesta del trabajo
+10;Cáceres;Extremadura;2024-05-01;Nacional;Fiesta del trabajo
+51;Ceuta;Ceuta, Ciudad Autónoma de;2024-05-01;Nacional;Fiesta del trabajo
+02;Albacete;Castilla-La Mancha;2024-05-01;Nacional;Fiesta del trabajo
+24;León;Castilla Y León;2024-05-01;Nacional;Fiesta del trabajo
+22;Huesca;Aragón;2024-05-01;Nacional;Fiesta del trabajo
+15;Coruña, A;Galicia;2024-05-01;Nacional;Fiesta del trabajo
+43;Tarragona;Cataluña;2024-05-01;Nacional;Fiesta del trabajo
+50;Zaragoza;Aragón;2024-05-01;Nacional;Fiesta del trabajo
+29;Málaga;Andalucía;2024-05-01;Nacional;Fiesta del trabajo
+17;Girona;Cataluña;2024-05-01;Nacional;Fiesta del trabajo
+07;Balears, Illes;Balears, Illes;2024-05-01;Nacional;Fiesta del trabajo
+09;Burgos;Castilla Y León;2024-05-01;Nacional;Fiesta del trabajo
+25;Lleida;Cataluña;2024-05-01;Nacional;Fiesta del trabajo
+30;Murcia;Murcia, Región de;2024-05-01;Nacional;Fiesta del trabajo
+04;Almería;Andalucía;2024-05-01;Nacional;Fiesta del trabajo
+11;Cádiz;Andalucía;2024-05-01;Nacional;Fiesta del trabajo
+21;Huelva;Andalucía;2024-05-01;Nacional;Fiesta del trabajo
+06;Badajoz;Extremadura;2024-05-01;Nacional;Fiesta del trabajo
+44;Teruel;Aragón;2024-05-01;Nacional;Fiesta del trabajo
+19;Guadalajara;Castilla-La Mancha;2024-05-01;Nacional;Fiesta del trabajo
+36;Pontevedra;Galicia;2024-05-01;Nacional;Fiesta del trabajo
+27;Lugo;Galicia;2024-05-01;Nacional;Fiesta del trabajo
+37;Salamanca;Castilla Y León;2024-05-01;Nacional;Fiesta del trabajo
+39;Cantabria;Cantabria;2024-05-01;Nacional;Fiesta del trabajo
+46;Valencia/Valéncia;Comunidad Valenciana;2024-05-01;Nacional;Fiesta del trabajo
+01;Araba/Álava;País Vasco;2024-05-01;Nacional;Fiesta del trabajo
+13;Ciudad Real;Castilla-La Mancha;2024-05-01;Nacional;Fiesta del trabajo
+28;Madrid;Madrid, Comunidad de;2024-05-02;Autonómico;Fiesta de la Comunidad de Madrid
+27;Lugo;Galicia;2024-05-17;Autonómico;Día de las Letras Gallegas
+32;Ourense;Galicia;2024-05-17;Autonómico;Día de las Letras Gallegas
+15;Coruña, A;Galicia;2024-05-17;Autonómico;Día de las Letras Gallegas
+36;Pontevedra;Galicia;2024-05-17;Autonómico;Día de las Letras Gallegas
+19;Guadalajara;Castilla-La Mancha;2024-05-30;Autonómico;Corpus Christi
+13;Ciudad Real;Castilla-La Mancha;2024-05-30;Autonómico;Corpus Christi
+02;Albacete;Castilla-La Mancha;2024-05-30;Autonómico;Corpus Christi
+35;Palmas, Las;Canarias;2024-05-30;Autonómico;Día de Canarias
+16;Cuenca;Castilla-La Mancha;2024-05-30;Autonómico;Corpus Christi
+45;Toledo;Castilla-La Mancha;2024-05-30;Autonómico;Corpus Christi
+13;Ciudad Real;Castilla-La Mancha;2024-05-31;Autonómico;Día de Castilla-La Mancha
+16;Cuenca;Castilla-La Mancha;2024-05-31;Autonómico;Día de Castilla-La Mancha
+45;Toledo;Castilla-La Mancha;2024-05-31;Autonómico;Día de Castilla-La Mancha
+02;Albacete;Castilla-La Mancha;2024-05-31;Autonómico;Día de Castilla-La Mancha
+19;Guadalajara;Castilla-La Mancha;2024-05-31;Autonómico;Día de Castilla-La Mancha
+26;Rioja, La;Rioja, La;2024-06-10;Autonómico;Lunes siguiente al Día de La Rioja
+52;Melilla;Melilla, Ciudad Autónoma de;2024-06-17;Autonómico;Fiesta del Sacrificio-Aid Al Adha
+51;Ceuta;Ceuta, Ciudad Autónoma de;2024-06-17;Autonómico;Fiesta del Sacrificio - Eidul Adha
+17;Girona;Cataluña;2024-06-24;Autonómico;San Juan
+43;Tarragona;Cataluña;2024-06-24;Autonómico;San Juan
+08;Barcelona;Cataluña;2024-06-24;Autonómico;San Juan
+25;Lleida;Cataluña;2024-06-24;Autonómico;San Juan
+48;Bizkaia;País Vasco;2024-07-25;Autonómico;Santiago Apóstol
+28;Madrid;Madrid, Comunidad de;2024-07-25;Autonómico;Santiago Apóstol
+20;Gipuzkoa;País Vasco;2024-07-25;Autonómico;Santiago Apóstol
+27;Lugo;Galicia;2024-07-25;Autonómico;Santiago Apóstol Día Nacional de Galicia
+31;Navarra;Navarra, Comunidad Foral de;2024-07-25;Autonómico;Santiago Apóstol
+01;Araba/Álava;País Vasco;2024-07-25;Autonómico;Santiago Apóstol
+36;Pontevedra;Galicia;2024-07-25;Autonómico;Santiago Apóstol Día Nacional de Galicia
+32;Ourense;Galicia;2024-07-25;Autonómico;Santiago Apóstol Día Nacional de Galicia
+39;Cantabria;Cantabria;2024-07-25;Autonómico;Santiago Apostol
+15;Coruña, A;Galicia;2024-07-25;Autonómico;Santiago Apóstol Día Nacional de Galicia
+51;Ceuta;Ceuta, Ciudad Autónoma de;2024-08-05;Autonómico;Nuestra Señora de África
+05;Ávila;Castilla Y León;2024-08-15;Nacional;Asunción de la Virgen
+25;Lleida;Cataluña;2024-08-15;Nacional;Asunción de la Virgen
+17;Girona;Cataluña;2024-08-15;Nacional;Asunción de la Virgen
+41;Sevilla;Andalucía;2024-08-15;Nacional;Asunción de la Virgen
+02;Albacete;Castilla-La Mancha;2024-08-15;Nacional;Asunción de la Virgen
+21;Huelva;Andalucía;2024-08-15;Nacional;Asunción de la Virgen
+09;Burgos;Castilla Y León;2024-08-15;Nacional;Asunción de la Virgen
+46;Valencia/Valéncia;Comunidad Valenciana;2024-08-15;Nacional;Asunción de la Virgen
+49;Zamora;Castilla Y León;2024-08-15;Nacional;Asunción de la Virgen
+28;Madrid;Madrid, Comunidad de;2024-08-15;Nacional;Asunción de la Virgen
+15;Coruña, A;Galicia;2024-08-15;Nacional;Asunción de la Virgen
+31;Navarra;Navarra, Comunidad Foral de;2024-08-15;Nacional;Asunción de la Virgen
+34;Palencia;Castilla Y León;2024-08-15;Nacional;Asunción de la Virgen
+44;Teruel;Aragón;2024-08-15;Nacional;Asunción de la Virgen
+06;Badajoz;Extremadura;2024-08-15;Nacional;Asunción de la Virgen
+26;Rioja, La;Rioja, La;2024-08-15;Nacional;Asunción de la Virgen
+43;Tarragona;Cataluña;2024-08-15;Nacional;Asunción de la Virgen
+14;Córdoba;Andalucía;2024-08-15;Nacional;Asunción de la Virgen
+50;Zaragoza;Aragón;2024-08-15;Nacional;Asunción de la Virgen
+51;Ceuta;Ceuta, Ciudad Autónoma de;2024-08-15;Nacional;Asunción de la Virgen
+11;Cádiz;Andalucía;2024-08-15;Nacional;Asunción de la Virgen
+39;Cantabria;Cantabria;2024-08-15;Nacional;Asunción de la Virgen
+52;Melilla;Melilla, Ciudad Autónoma de;2024-08-15;Nacional;Asunción de la Virgen
+18;Granada;Andalucía;2024-08-15;Nacional;Asunción de la Virgen
+33;Asturias;Asturias, Principado de;2024-08-15;Nacional;Asunción de la Virgen
+24;León;Castilla Y León;2024-08-15;Nacional;Asunción de la Virgen
+12;Castellón/Castelló;Comunidad Valenciana;2024-08-15;Nacional;Asunción de la Virgen
+04;Almería;Andalucía;2024-08-15;Nacional;Asunción de la Virgen
+20;Gipuzkoa;País Vasco;2024-08-15;Nacional;Asunción de la Virgen
+37;Salamanca;Castilla Y León;2024-08-15;Nacional;Asunción de la Virgen
+32;Ourense;Galicia;2024-08-15;Nacional;Asunción de la Virgen
+35;Palmas, Las;Canarias;2024-08-15;Nacional;Asunción de la Virgen
+07;Balears, Illes;Balears, Illes;2024-08-15;Nacional;Asunción de la Virgen
+13;Ciudad Real;Castilla-La Mancha;2024-08-15;Nacional;Asunción de la Virgen
+48;Bizkaia;País Vasco;2024-08-15;Nacional;Asunción de la Virgen
+40;Segovia;Castilla Y León;2024-08-15;Nacional;Asunción de la Virgen
+08;Barcelona;Cataluña;2024-08-15;Nacional;Asunción de la Virgen
+16;Cuenca;Castilla-La Mancha;2024-08-15;Nacional;Asunción de la Virgen
+03;Alicante;Comunidad Valenciana;2024-08-15;Nacional;Asunción de la Virgen
+19;Guadalajara;Castilla-La Mancha;2024-08-15;Nacional;Asunción de la Virgen
+38;Santa Cruz de Tenerife;Canarias;2024-08-15;Nacional;Asunción de la Virgen
+27;Lugo;Galicia;2024-08-15;Nacional;Asunción de la Virgen
+23;Jaén;Andalucía;2024-08-15;Nacional;Asunción de la Virgen
+47;Valladolid;Castilla Y León;2024-08-15;Nacional;Asunción de la Virgen
+29;Málaga;Andalucía;2024-08-15;Nacional;Asunción de la Virgen
+45;Toledo;Castilla-La Mancha;2024-08-15;Nacional;Asunción de la Virgen
+36;Pontevedra;Galicia;2024-08-15;Nacional;Asunción de la Virgen
+01;Araba/Álava;País Vasco;2024-08-15;Nacional;Asunción de la Virgen
+30;Murcia;Murcia, Región de;2024-08-15;Nacional;Asunción de la Virgen
+42;Soria;Castilla Y León;2024-08-15;Nacional;Asunción de la Virgen
+10;Cáceres;Extremadura;2024-08-15;Nacional;Asunción de la Virgen
+22;Huesca;Aragón;2024-08-15;Nacional;Asunción de la Virgen
+33;Asturias;Asturias, Principado de;2024-09-09;Autonómico;Lunes siguiente al Día de Asturias
+25;Lleida;Cataluña;2024-09-11;Autonómico;Fiesta Nacional de Cataluña
+17;Girona;Cataluña;2024-09-11;Autonómico;Fiesta Nacional de Cataluña
+08;Barcelona;Cataluña;2024-09-11;Autonómico;Fiesta Nacional de Cataluña
+43;Tarragona;Cataluña;2024-09-11;Autonómico;Fiesta Nacional de Cataluña
