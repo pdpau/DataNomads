@@ -10,3 +10,6 @@ Análisis y predicción de flujos de movilidad vacacional en España
 - Total number of "foreign" people in a province per day
 - Increments relative to last year (in % and in total)
 - ...
+
+
+# TODO: Hacer readme.md
