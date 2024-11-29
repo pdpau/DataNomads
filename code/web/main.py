@@ -105,7 +105,7 @@ st.markdown(
 
 
 # --- Cargar y procesar datos --- #
-data = pd.read_csv("model_data.csv")
+data = pd.read_csv("dataset.csv")
 data.drop(columns=['date', 'year'], inplace=True)
 
 # Aplicar LabelEncoder a las columnas categóricas
