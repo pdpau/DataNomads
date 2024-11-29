@@ -3,11 +3,33 @@ import os
 import base64
 import streamlit as st
 import pandas as pd
+import matplotlib.pyplot as plt
+import seaborn as sns
 from sklearn.preprocessing import LabelEncoder
 from sklearn.model_selection import train_test_split
 from sklearn.ensemble import GradientBoostingRegressor
 import folium
 from streamlit_folium import st_folium
+import pickle
+
+# -- Funciones para cargar datos -- #
+@st.cache_resource
+def load_model():
+    with open('model.pkl', 'rb') as file:
+        model = pickle.load(file)
+    return model
+@st.cache_data
+def load_data():
+    df = pd.read_csv('dataset.csv', sep=',')
+    return df
+@st.cache_resource
+def load_label_encoders():
+    with open('le_day_of_week.pkl', 'rb') as file:
+        le_day_of_week = pickle.load(file)
+    with open('le_provincia_destino_name.pkl', 'rb') as file:
+        le_provincia_destino_name = pickle.load(file)
+    return le_day_of_week, le_provincia_destino_name
+# -- -- #
 
 # --- Configuración de la página ---
 st.set_page_config(
@@ -104,27 +126,11 @@ st.markdown(
 )
 
 
-# --- Cargar y procesar datos --- #
-data = pd.read_csv("dataset.csv")
-data.drop(columns=['date', 'year'], inplace=True)
+# --- Cargar datos --- #
+model = load_model()
+le_day_of_week, le_provincia_destino_name = load_label_encoders()
+og_data = load_data()
 
-# Aplicar LabelEncoder a las columnas categóricas
-le_day_of_week = LabelEncoder()
-le_provincia_destino_name = LabelEncoder()
-
-data['day_of_week'] = le_day_of_week.fit_transform(data['day_of_week'])
-data['provincia_destino_name'] = le_provincia_destino_name.fit_transform(data['provincia_destino_name'])
-
-# Dividir en características (X) y objetivo (y)
-X = data.drop(columns=['viajes'])
-y = data['viajes']
-
-# Dividir en conjuntos de entrenamiento y prueba
-X_train, X_test, y_train, y_test = train_test_split(X, y, test_size=0.25, random_state=42)
-
-# Entrenar el modelo de predicción
-gbr = GradientBoostingRegressor()
-gbr.fit(X_train, y_train)
 
 # --- Inicializar session_state ---
 if "prediction" not in st.session_state:
@@ -238,11 +244,45 @@ if st.button("Calcular predicción"):
             'day_of_week': [day_of_week_encoded],
             'month': [month]
         })
-        st.session_state.prediction = gbr.predict(pred_data)[0]
+        st.session_state.prediction = model.predict(pred_data)[0]
         st.session_state.show_prediction = True
 
-# --- Mostrar la predicción ---
-if st.session_state.show_prediction and st.session_state.prediction is not None:
-    st.markdown(
-        f"### Predicción: {int(st.session_state.prediction)} viajeros para un *{day_of_week_og}* de *{month_og}* en *{st.session_state.selected_province}*."
-    )
+        # --- Mostrar la predicción --- #
+        if st.session_state.show_prediction and st.session_state.prediction is not None:
+            # TODO: Escollir frase
+            st.markdown(
+                f"### Predicción: {int(st.session_state.prediction)} viajeros para un **{day_of_week_og}** de **{month_og}** en **{st.session_state.selected_province}**."
+            )
+            st.markdown(
+                f"### El próximo **{day_of_week_og}** de **{month_og}** llegarán a **{st.session_state.selected_province}** aproximadamente **{int(st.session_state.prediction)}** viajeros."
+            )
+        # -- -- #
+
+        # --- Grafico datos reales vs prediccióm --- #
+        u = og_data.copy()
+        data_to_plot = u[(u["day_of_week"] == day_of_week) & (u["month"] == month) & (u["provincia_destino_name"] == selected_province)]
+
+        # Visualización datos reales
+        fig = plt.figure(figsize=(10, 6))
+        ax = sns.barplot(data=data_to_plot, x="date", y="viajes")
+
+        # Añadir columna de predicción
+        x_pos = len(data_to_plot)
+        ax.bar(x_pos, int(st.session_state.prediction), color="red")
+
+        for i in ax.containers:
+            ax.bar_label(i, padding=3)
+        
+        # Ajustar etiquetas del eje x
+        x_labels = list(data_to_plot["date"].astype(str))
+        x_labels.append("Predicción")
+        ax.set_xticks(range(len(x_labels)))
+        ax.set_xticklabels(x_labels, rotation=40)
+
+        plt.title(f"Número de viajes a {selected_province_original} los {day_of_week_og} de {month_og}")
+        plt.tight_layout()
+        st.pyplot(fig)
+        # -- -- #
+
+
+# --- END OF FILE --- #
