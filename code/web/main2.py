@@ -7,13 +7,12 @@ from sklearn.preprocessing import LabelEncoder
 from sklearn.model_selection import train_test_split
 from sklearn.ensemble import GradientBoostingRegressor
 import folium
-from streamlit_folium import st_folium, folium_static
+from streamlit_folium import st_folium
 
 # --- Configuración de la página ---
 st.set_page_config(
     page_title="DataNomads",
     page_icon="🧊",
-    layout="wide",
     initial_sidebar_state="expanded"
 )
 
@@ -103,10 +102,14 @@ st.markdown(
     unsafe_allow_html=True
 )
 
-
 # --- Cargar y procesar datos --- #
-data = pd.read_csv("dataset.csv")
-data.drop(columns=['date', 'year'], inplace=True)
+@st.cache_data
+def load_data():
+    data = pd.read_csv("dataset.csv")
+    data.drop(columns=['date', 'year'], inplace=True)
+    return data
+
+data = load_data()
 
 # Aplicar LabelEncoder a las columnas categóricas
 le_day_of_week = LabelEncoder()
@@ -190,6 +193,7 @@ if map_data and "last_active_drawing" in map_data:
     last_active = map_data.get("last_active_drawing", None)
     if last_active and "properties" in last_active:
         st.session_state.selected_province = last_active["properties"].get("name", None)
+        reset_prediction()
 
 # --- Entradas de predicción ---
 days_mapping = {"Lunes": "Monday", "Martes": "Tuesday", "Miércoles": "Wednesday", "Jueves": "Thursday",
@@ -202,19 +206,21 @@ with input_col1:
     day_of_week_og = st.selectbox(
         "Selecciona un día de la semana",
         list(days_mapping.keys()),
-        on_change=reset_prediction
+        on_change=reset_prediction,
+        key="day_of_week_selectbox"
     )
     day_of_week = days_mapping[day_of_week_og]
 with input_col2:
     month_og = st.selectbox(
         "Selecciona un mes",
         list(months_mapping.keys()),
-        on_change=reset_prediction
+        on_change=reset_prediction,
+        key="month_selectbox"
     )
     month = months_mapping[month_og]
 
 # --- Botón para Calcular la Predicción ---
-if st.button("Calcular predicción"):
+if st.button("Calcular predicción", key="calculate_prediction_button"):
     selected_province_original = st.session_state.selected_province
     selected_province = province_name_mapping.get(selected_province_original, selected_province_original)
 
