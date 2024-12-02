@@ -249,10 +249,6 @@ if st.button("Calcular predicción"):
 
         # --- Mostrar la predicción --- #
         if st.session_state.show_prediction and st.session_state.prediction is not None:
-            # TODO: Escollir frase
-            st.markdown(
-                f"### Predicción: {int(st.session_state.prediction)} viajeros para un **{day_of_week_og}** de **{month_og}** en **{st.session_state.selected_province}**."
-            )
             st.markdown(
                 f"### El próximo **{day_of_week_og}** de **{month_og}** llegarán a **{st.session_state.selected_province}** aproximadamente **{int(st.session_state.prediction)}** viajeros."
             )
