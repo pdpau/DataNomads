@@ -5,9 +5,6 @@ import streamlit as st
 import pandas as pd
 import matplotlib.pyplot as plt
 import seaborn as sns
-from sklearn.preprocessing import LabelEncoder
-from sklearn.model_selection import train_test_split
-from sklearn.ensemble import GradientBoostingRegressor
 import folium
 from streamlit_folium import st_folium
 import pickle
@@ -34,8 +31,7 @@ def load_label_encoders():
 # --- Configuración de la página ---
 st.set_page_config(
     page_title="DataNomads",
-    page_icon="🧊",
-    layout="wide",
+    page_icon=":bar_chart:",
     initial_sidebar_state="expanded"
 )
 
